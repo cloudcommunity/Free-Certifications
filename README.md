@@ -1,6 +1,6 @@
 # Free Certifications
 
-Curated list of free courses &amp; certifications
+Curated list of free courses &amp; certifications.
 
 This is the current location of the list, which can be migrated to github: https://docs.google.com/document/d/1PbTFv242ZDpoG_5n9MYjJrO3vjs02ZPv0Gg3U6302jU/edit?usp=sharing
 
