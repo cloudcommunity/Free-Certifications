@@ -8,7 +8,7 @@ This is the current location of the list, which can be migrated to github: https
 
 | Technology | Provider | Description | Link |
 | --- | --- | --- | --- |
-| Security | Fortinet | List all new or modified files | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) |
+| Security | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) |
 
 ## Expired Offers
 
