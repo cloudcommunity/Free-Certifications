@@ -2,10 +2,8 @@
 
 Curated list of free courses &amp; certifications.
 
-This is the current location of the list, which can be migrated to github: https://docs.google.com/document/d/1PbTFv242ZDpoG_5n9MYjJrO3vjs02ZPv0Gg3U6302jU/edit?usp=sharing
-
-## Current Offers
 The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
+
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
 | Security | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | 31-Dec-2020 |
@@ -51,15 +49,3 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEONLINE | [Link](https://aviatrix.teachable.com) | 31-08-2020 |
 | Virtualization | Nutanix  | Nutanix , Offers Free NCP , NCAP ,NCSE Vouchers & Training on the “.NEXT” Virtual Conference | - | 08-09-2020 |
-
-## Expired Offers
-The recently expired offers are to be added on top of the table.
-| Technology | Offer | Expiration | 
-| --- | --- | --- |
-| Azure & O365 | Free access to 6 Microsoft's official Azure & Office 365 courses, incl. AZ-300, AZ-301… [Link](https://www.greycampus.com/e-learning/microsoft-courses) | 31-May-2020 |
-| Alibaba Cloud | Last chance to register for the Cloud Academy Online event (May 28-29, 2020) and obtain during the event a free exam voucher (worth $200) for Alibaba Cloud Associate (ACA) certification [Link](https://sg.alibabacloud.com/campaign/cloud-academy-online) | 29-May-2020 |
-| Oracle Cloud | 6 free Oracle Cloud training courses and certifications. [Link](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html) | 15-May-2020 |
-
-| Technology | Provider | Description | Link | Expiration |
-| --- | --- | --- | --- | --- |
-| Oracle Cloud | Oracle | 6 free Oracle Cloud training courses and certifications. | [Link](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html) | 15-May-2020 |
