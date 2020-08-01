@@ -60,14 +60,6 @@ The recently expired offers are to be added on top of the table.
 | Alibaba Cloud | Last chance to register for the Cloud Academy Online event (May 28-29, 2020) and obtain during the event a free exam voucher (worth $200) for Alibaba Cloud Associate (ACA) certification [Link](https://sg.alibabacloud.com/campaign/cloud-academy-online) | 29-May-2020 |
 | Oracle Cloud | 6 free Oracle Cloud training courses and certifications. [Link](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html) | 15-May-2020 |
 
-## Other Documents
-
-<ul>
-  <li>Crazy Certification Discounts (coming soon!)</li>
-  <li>
-    <a target="_blank" href="https://docs.google.com/document/d/1CldCwA-lqgWTLUQk6Pq5aw1mtkBi7Mtj-m_LQVUFn8E/edit?usp=sharing">Interesting Events</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://docs.google.com/document/d/1nQDb_clgSPQ3KJNBCviIJdNwuRd5w8MDCiaMVfivWSs/edit?usp=sharing">Cloud Certifications Comparison</a>
-  </li>
-</ul>
+| Technology | Provider | Description | Link | Expiration |
+| --- | --- | --- | --- | --- |
+| Oracle Cloud | Oracle | 6 free Oracle Cloud training courses and certifications. | [Link](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html) | 15-May-2020 |
