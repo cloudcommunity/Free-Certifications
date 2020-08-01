@@ -27,13 +27,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Alibaba Cloud | Coursera | “Architecting on Alibaba Cloud Specialization” at Coursera. | [Link](https://www.coursera.org/specializations/alibabacloud) | unknown |
 | DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | unknown |
 | DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | unknown |
-| Scrum | Certiprof | Free “Scrum Foundations Professional Certificate (SFPC)” certification. Available in en, pt-br & es. Use the code “COVID19Support” | [Link](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-english) | unknown |
 | Data Analytics | Sumo Logic | 6 free training courses and certifications by Sumo Logic. | [Link](https://www.sumologic.com/learn/certifications/) | unlimited |
-| Scrum | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | unlimited |
-| Project Management | OHSC | Free Project Management course and certificate by Oxford Home Study Centre (OHSC). | [Link](https://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management) | unlimited |
-| Project Management | Msicertified | Free Project Management Essentials Certified (PMEC) training & certification.  | [Link](https://www.msicertified.com/free-project-management-certification.html) | unlimited |
-| Project Management | Sigma  | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | unlimited |
-| Project Management | Sigma | Free Six Sigma White Belt Training & Certification. | [Link](https://www.sixsigmaonline.org/six-sigma-white-belt-certification/) | - |
 | Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | unlimited |
 | Databases | Mongodb | 12 free MongoDB courses with proof of completion. | [Link](https://university.mongodb.com/courses/catalog) | unlimited |
 | Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | unlimited |
@@ -50,3 +44,12 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | --- | --- | --- | --- |
 | ICSI | ICSI Certified Network Security Specialist (worth £500.00). Use the code “#StaySafeHome”. | [Link](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19) | 30-Jun-2020 |
 | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | 31-Dec-2020 |
+
+## Project Management
+
+| Certiprof | Free “Scrum Foundations Professional Certificate (SFPC)” certification. Available in en, pt-br & es. Use the code “COVID19Support” | [Link](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-english) | unknown |
+| Six Sigma Online | Free Six Sigma White Belt Training & Certification. | [Link](https://www.sixsigmaonline.org/six-sigma-white-belt-certification/) | unknown |
+| OHSC | Free Project Management course and certificate by Oxford Home Study Centre (OHSC). | [Link](https://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management) | unlimited |
+| Msicertified | Free Project Management Essentials Certified (PMEC) training & certification.  | [Link](https://www.msicertified.com/free-project-management-certification.html) | unlimited |
+| 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | unlimited |
+| ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | unlimited |
