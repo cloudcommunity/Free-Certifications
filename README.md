@@ -31,8 +31,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | unlimited |
 | Databases | Mongodb | 12 free MongoDB courses with proof of completion. | [Link](https://university.mongodb.com/courses/catalog) | unlimited |
 | Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | unlimited |
-| Marketing | Google | Fundamentals of Digital Marketing free course & certificate by Google. | [Link](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | unlimited |
-| Marketing | SMstudy | 4 free marketing related fundamental certifications by SMstudy. | [Link](https://www.smstudy.com/freeresources/earn-4-free-certifications) | unlimited |
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | unlimited |
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEONLINE | [Link](https://aviatrix.teachable.com) | 31-08-2020 |
@@ -55,3 +53,10 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Msicertified | Free Project Management Essentials Certified (PMEC) training & certification.  | [Link](https://www.msicertified.com/free-project-management-certification.html) | unlimited |
 | 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | unlimited |
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | unlimited |
+
+## Marketing
+
+| Provider | Description | Link | Expiration |
+| --- | --- | --- | --- |
+| Marketing | Google | Fundamentals of Digital Marketing free course & certificate by Google. | [Link](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | unlimited |
+| Marketing | SMstudy | 4 free marketing related fundamental certifications by SMstudy. | [Link](https://www.smstudy.com/freeresources/earn-4-free-certifications) | unlimited |
