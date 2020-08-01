@@ -8,7 +8,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | --- | --- | --- | --- | --- |
 | Security | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | 31-Dec-2020 |
 | Google Cloud | Google | One free month at Qwiklabs, Pluralsight & Coursera learning platforms. Pluralsight & Coursera require a credit card. Don’t forget to cancel in time.   (Qwiklabs seem still to work. Rest - expired) | [Link](https://inthecloud.withgoogle.com/training-discount/register.html) | ?31-May-2020? |
-| SEO | MOZ | Free access to almost all Moz Academy SEO courses. Use the promo code “wegotthis”. | [Link](https://academy.moz.com/) | ?31-May-2020? |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | 30-Jun-2020 |
 | Security | Icsi | ICSI Certified Network Security Specialist (worth £500.00). Use the code “#StaySafeHome”. | [Link](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19) | 30-Jun-2020 |
 | Agile | Atlassian | Free access to Atlassian’s on-demand courses ($300 value each). | [Link](https://training.atlassian.com/free-training-catalog) | 30-Jun-2020 |
