@@ -6,10 +6,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
-| Security | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | 31-Dec-2020 |
 | Google Cloud | Google | One free month at Qwiklabs, Pluralsight & Coursera learning platforms. Pluralsight & Coursera require a credit card. Don’t forget to cancel in time.   (Qwiklabs seem still to work. Rest - expired) | [Link](https://inthecloud.withgoogle.com/training-discount/register.html) | ?31-May-2020? |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | 30-Jun-2020 |
-| Security | Icsi | ICSI Certified Network Security Specialist (worth £500.00). Use the code “#StaySafeHome”. | [Link](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19) | 30-Jun-2020 |
 | Agile | Atlassian | Free access to Atlassian’s on-demand courses ($300 value each). | [Link](https://training.atlassian.com/free-training-catalog) | 30-Jun-2020 |
 | Databases | Exasol | Free Exasol training courses and certifications (€150 value each). | [Link](https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification) | 30-Jun-2020 |
 | Automation | AAU | Free Automation Anywhere Certified Advanced RPA Professional exam ($50 value). | [Link](https://university.automationanywhere.com/rpa-certification/advanced-rpa-professional-exam-enterprise-a2019/) | 1-Jul-2020 |
@@ -45,3 +43,10 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEONLINE | [Link](https://aviatrix.teachable.com) | 31-08-2020 |
 | Virtualization | Nutanix  | Nutanix , Offers Free NCP , NCAP ,NCSE Vouchers & Training on the “.NEXT” Virtual Conference | - | 08-09-2020 |
+
+## Security
+
+| Provider | Description | Link | Expiration |
+| --- | --- | --- | --- |
+| ICSI | ICSI Certified Network Security Specialist (worth £500.00). Use the code “#StaySafeHome”. | [Link](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19) | 30-Jun-2020 |
+| Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | 31-Dec-2020 |
