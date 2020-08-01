@@ -47,6 +47,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 ## Project Management
 
+| Provider | Description | Link | Expiration |
+| --- | --- | --- | --- |
 | Certiprof | Free “Scrum Foundations Professional Certificate (SFPC)” certification. Available in en, pt-br & es. Use the code “COVID19Support” | [Link](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-english) | unknown |
 | Six Sigma Online | Free Six Sigma White Belt Training & Certification. | [Link](https://www.sixsigmaonline.org/six-sigma-white-belt-certification/) | unknown |
 | OHSC | Free Project Management course and certificate by Oxford Home Study Centre (OHSC). | [Link](https://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management) | unlimited |
