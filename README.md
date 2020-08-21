@@ -15,6 +15,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Soft Skills | Coursera | 115 free online courses with certificates by Coursera. Credit card required. Don’t forget to cancel in time | [Link](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) | 31-Jul-2020 |
 | Programming | Packt | 15 free programming & data science certificate courses by Packt ($20 value each). | [Link](https://courses.packtpub.com/pages/free) | 31-Jul-2020 |
 | Alibaba Cloud | Alibaba Cloud | Free Alibaba Cloud Certification Associate (ACA) [Cloud Computing certification](https://edu.alibabacloud.com/certification/aca_cloudcomputing?spm=a3c0i.11597324.1621765730.2.56b34755VMGR2Y) (worth $200) offered for attendees taking at least 1 quiz during this event. | [Link](https://my.alibabacloud.com/campaign/academyday) | 27-Aug-2020 |
+| Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEONLINE | [Link](https://aviatrix.teachable.com) | 31-Aug-2020 |
+| Virtualization | Nutanix  | Nutanix , Offers Free NCP , NCAP ,NCSE Vouchers & Training on the “.NEXT” Virtual Conference | - | 08-Sep-2020 |
 | Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://info.microsoft.com/AP-AzureINFRA-CATALOG-FY20-07Jul-07-MicrosoftAzureVirtualTrainingDayFundamentals-SRDEM30218_CatalogDisplayPage.html) / [Alternative Link](https://www.microsoft.com/en-us/trainingdays) | 30-Sep-2020 |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | 01-Jan-2021 |
 | Kubernetes | Rancher | Free “Certified Rancher Operator: Level 1” on-demand training & certification by Rancher. | [Link](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) | 14-Jan-2021 |
@@ -37,8 +39,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | unlimited |
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
-| Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEONLINE | [Link](https://aviatrix.teachable.com) | 31-08-2020 |
-| Virtualization | Nutanix  | Nutanix , Offers Free NCP , NCAP ,NCSE Vouchers & Training on the “.NEXT” Virtual Conference | - | 08-09-2020 |
 
 ## Security
 
