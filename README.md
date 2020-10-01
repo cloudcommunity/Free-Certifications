@@ -21,6 +21,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | 01-Jan-2021 |
 | Kubernetes | Rancher | Free “Certified Rancher Operator: Level 1” on-demand training & certification by Rancher. | [Link](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) | 14-Jan-2021 |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
+| Game Development | Harvard University | Learn about the  2D and 3D interactive games in this hands-on course | [Link](https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0) |  December 31, 2021 |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
 | Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown |
 | Google Cloud | Qwiklabs | Claim 30 days free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
