@@ -40,6 +40,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Data Science | IBM Cognitive Class | Data science courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited |
+|  IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
 ## Security
 
 | Provider | Description | Link | Expiration |
