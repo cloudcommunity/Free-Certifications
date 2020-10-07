@@ -9,6 +9,8 @@ The recently expired offers are to be added on top of the table.
 | Alibaba Cloud | Alibaba Cloud | Free Alibaba Cloud Certification Associate (ACA) [Cloud Computing certification](https://edu.alibabacloud.com/certification/aca_cloudcomputing?spm=a3c0i.11597324.1621765730.2.56b34755VMGR2Y) (worth $200) offered for attendees taking at least 1 quiz during this event. | [Link](https://my.alibabacloud.com/campaign/academyday) | 27-Aug-2020 |
 | Virtualization | Nutanix  | Nutanix , Offers Free NCP , NCAP ,NCSE Vouchers & Training on the “.NEXT” Virtual Conference | [Link](https://www.nutanix.com/next) | 08-Sep-2020 |
 | Automation | AAU | Free Automation Anywhere Certified Advanced RPA Professional exam ($50 value). | [Link](https://university.automationanywhere.com/rpa-certification/advanced-rpa-professional-exam-enterprise-a2019/) | 1-Jul-2020 |
+| RPA | Automation Anywhere | Automation Anywhere Certified Master RPA Professional (worth $100) free until 18-Sep-2020. | [Link](https://university.automationanywhere.com/certification/rpa-certification?sc=master#mScrlId) | 18-Sep-2020 |
+| Microsoft | Microsoft | Earn a free Microsoft certification exam after completing your first Microsoft Ignite Cloud Skills Challenge. | [Link](https://csc.docs.microsoft.com/ignite/registration) | 22-Sep-2020 |
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
