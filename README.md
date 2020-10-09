@@ -14,9 +14,11 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Soft Skills | Coursera | 115 free online courses with certificates by Coursera. Credit card required. Don’t forget to cancel in time | [Link](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) | 31-Jul-2020 |
 | Programming | Packt | 15 free programming & data science certificate courses by Packt ($20 value each). | [Link](https://courses.packtpub.com/pages/free) | 31-Jul-2020 |
 | Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEONLINE | [Link](https://aviatrix.teachable.com) | Limited Time |
-| RPA | Automation Anywhere | Automation Anywhere Certified Master RPA Professional (worth $100) free until 18-Sep-2020. | [Link](https://university.automationanywhere.com/certification/rpa-certification?sc=master#mScrlId) | 18-Sep-2020 |
-| Microsoft | Microsoft | Earn a free Microsoft certification exam after completing your first Microsoft Ignite Cloud Skills Challenge. | [Link](https://csc.docs.microsoft.com/ignite/registration) | 22-Sep-2020 |
 | PagerDuty | PagerDuty | PagerDuty Incident Responder Certification & Foundational Practitioner Certification (worth $7,500 per-team) for PagerDuty Summit attendees. | [Link](https://summit.pagerduty.com/global/getcertified) | 24-Sep-2020 |
+| InterSystems | InterSystems | Free InterSystems Certification exam attempts to all attendees of InterSystems Virtual Summit 2020. | [Link](https://www.intersystems.com/virtual-summit-2020/) | 22-Oct-2020 |
+| Acronis | Acronis | Get professional training and certifications for free in technical or sales tracks (MSP/SP/CSP/VAR/SI/OEM). | [Link](https://summit.acronis.events/page/1597729/acronis-cyberfit-academy-training) | 18-Oct-2020 |
+| Alibaba Cloud | Alibaba Cloud | Specialty Certification Bootcamp, a three-part event featuring three-hour videos summarizing the DevOps, Networking, and Data Analytics specialty certification program. | [Link](https://edu.alibabacloud.com/certification/specialty-bootcamp) | 23-Oct-2020 |
+| Alibaba Cloud | Alibaba Cloud | Get free ACA Certification exam voucher from Alibaba Cloud for attending this October webinar live. | [Link](https://resource.alibabacloud.com/webinar/detail.html?id=2534) / [Link](hhttps://resource.alibabacloud.com/webinar/detail.html?id=2535) / [Link](https://resource.alibabacloud.com/webinar/detail.html?id=2536) | 30-Oct-2020 |
 | Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://info.microsoft.com/AP-AzureINFRA-CATALOG-FY20-07Jul-07-MicrosoftAzureVirtualTrainingDayFundamentals-SRDEM30218_CatalogDisplayPage.html) / [Alternative Link](https://www.microsoft.com/en-us/trainingdays) | Limited Time |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | 01-Jan-2021 |
 | Kubernetes | Rancher | Free “Certified Rancher Operator: Level 1” on-demand training & certification by Rancher. | [Link](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) | 14-Jan-2021 |
@@ -51,6 +53,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
 | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | 31-Dec-2020 |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
+| APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible indiviuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
 | Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 
 ## Project Management
@@ -81,3 +84,4 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | --- | --- | --- | --- |
 | Salesforce | Free Salesforce courses with career learning paths and _superbadges_. Also, free half-day [Salesforce Certification preparation webinar](https://trailhead.salesforce.com/credentials/cert-days), offering $70 discount coupon for any $200 exam for all attendees. | [Link](https://trailhead.salesforce.com/en/home) | Unlimited |
 | Revenera | Revenera Certification free of charge to approved members of the legal community. | [Link](https://info.revenera.com/SCA-Legal-Certification-Program-Request) | Unlimited |
+| Kahoot! | Kahoot! Certified for schools, free program designed to help teachers become the ultimate Kahoot! superheroes. | [Link](https://kahoot.com/blog/2020/09/18/kahoot-certified-for-schools-better-than-before/) | Unlimited |
