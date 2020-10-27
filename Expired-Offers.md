@@ -11,6 +11,7 @@ The recently expired offers are to be added on top of the table.
 | Automation | AAU | Free Automation Anywhere Certified Advanced RPA Professional exam ($50 value). | [Link](https://university.automationanywhere.com/rpa-certification/advanced-rpa-professional-exam-enterprise-a2019/) | 1-Jul-2020 |
 | RPA | Automation Anywhere | Automation Anywhere Certified Master RPA Professional (worth $100) free until 18-Sep-2020. | [Link](https://university.automationanywhere.com/certification/rpa-certification?sc=master#mScrlId) | 18-Sep-2020 |
 | Microsoft | Microsoft | Earn a free Microsoft certification exam after completing your first Microsoft Ignite Cloud Skills Challenge. | [Link](https://csc.docs.microsoft.com/ignite/registration) | 22-Sep-2020 |
+| PagerDuty | PagerDuty | PagerDuty Incident Responder Certification & Foundational Practitioner Certification (worth $7,500 per-team) for PagerDuty Summit attendees. | [Link](https://summit.pagerduty.com/global/getcertified) | 24-Sep-2020 |
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
