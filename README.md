@@ -53,6 +53,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
 | API | API Academy | Free API Designer and API Security Architect certifications. | [Link](https://apiacademy.co/api-certification/) | Unknown |
 | AI | Microsoft AI | Microsoft AI Classroom Series. Microsoft has joined forces with NASSCOM FutureSkills® to deliver Microsoft’s AI, machine learning and data science expertise to students through easy-to-consume modules including demos, hands-on workshop and assignments. | [Link](http://thetechco.in/MicrosoftAIforStudents/index) | Unknown |
+| Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
+
 
 ## Security
 
