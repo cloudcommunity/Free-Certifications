@@ -7,10 +7,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
 | Google Cloud | Google | One free month at Qwiklabs, Pluralsight & Coursera learning platforms. Pluralsight & Coursera require a credit card. Don’t forget to cancel in time.   (Qwiklabs seem still to work. Rest - expired) | [Link](https://inthecloud.withgoogle.com/training-discount/register.html) | ?31-May-2020? |
-| Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | 30-Jun-2020 |
 | Agile | Atlassian | Free access to Atlassian’s on-demand courses ($300 value each). | [Link](https://training.atlassian.com/free-training-catalog) | 30-Jun-2020 |
 | Databases | Exasol | Free Exasol training courses and certifications (€150 value each). | [Link](https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification) | 30-Jun-2020 |
-| Cloud | Coursera | 10 cloud computing courses by Coursera with certificates, Google Cloud, AWS and Azure. | [Link](https://coursera.org/share/f63a3a1dd8aad10a4ede6b3f7aa6a4ed) | 31-Jul-2020 |
 | Soft Skills | Coursera | 115 free online courses with certificates by Coursera. Credit card required. Don’t forget to cancel in time | [Link](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) | 31-Jul-2020 |
 | Programming | Packt | 15 free programming & data science certificate courses by Packt ($20 value each). | [Link](https://courses.packtpub.com/pages/free) | 31-Jul-2020 |
 | Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEONLINE | [Link](https://aviatrix.teachable.com) | Limited Time |
@@ -26,6 +24,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | 01-Jan-2021 |
 | Kubernetes | Rancher | Free “Certified Rancher Operator: Level 1” on-demand training & certification by Rancher. | [Link](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) | 14-Jan-2021 |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
+| Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
 | Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown |
 | Google Cloud | Qwiklabs | Claim 30 days free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
