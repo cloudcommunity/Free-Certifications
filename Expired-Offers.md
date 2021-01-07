@@ -4,6 +4,7 @@ The recently expired offers are to be added on top of the table.
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
+| Cloud | Coursera | 10 cloud computing courses by Coursera with certificates, Google Cloud, AWS and Azure. | [Link](https://coursera.org/share/f63a3a1dd8aad10a4ede6b3f7aa6a4ed) | 31-Jul-2020 |
 | SEO | MOZ | Free access to almost all Moz Academy SEO courses. Use the promo code “wegotthis”. | [Link](https://academy.moz.com/) | 31-May-2020 |
 | Oracle Cloud | Oracle | 6 free Oracle Cloud training courses and certifications. | [Link](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html) | 15-May-2020 |
 | Alibaba Cloud | Alibaba Cloud | Free Alibaba Cloud Certification Associate (ACA) [Cloud Computing certification](https://edu.alibabacloud.com/certification/aca_cloudcomputing?spm=a3c0i.11597324.1621765730.2.56b34755VMGR2Y) (worth $200) offered for attendees taking at least 1 quiz during this event. | [Link](https://my.alibabacloud.com/campaign/academyday) | 27-Aug-2020 |
