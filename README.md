@@ -55,7 +55,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
 | Calico | Calico | Certified Calico Operator: Level 1. | [Link](https://academy.tigera.io/course/certified-calico-operator-level-1/) | Unknown |
 
-
 ## Security
 
 | Provider | Description | Link | Expiration |
@@ -82,6 +81,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
 | Google | Fundamentals of Digital Marketing free course & certificate by Google. | [Link](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | Unlimited |
+| Microsoft | Microsoft Advertising certification and training. | [Link](https://about.ads.microsoft.com/en-us/resources/training/get-certified) | Unlimited |
 | SMstudy | 4 free marketing related fundamental certifications by SMstudy. | [Link](https://www.smstudy.com/freeresources/earn-4-free-certifications) | Unlimited |
 | DMAC | Free Facebook & Instagram Marketing course and certification by DMAC (Digital Marketing Academy of Canada). | [Link](https://www.yourdmac.com/free-online-social-media-marketing-course) | Limited Time |
 | Hootsuite | **[Students only]** Free Hootsuite Platform Certification (worth $99) and Social Marketing Certification (worth $199) through Hootsuite's Student Program. | [Link](https://hootsuite.com/pages/landing/student-program) | Unlimited |
