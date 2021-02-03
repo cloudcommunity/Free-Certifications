@@ -64,6 +64,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
 | APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible indiviuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
 | Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
+| SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
 
 ## Project Management
 
@@ -75,6 +76,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Msicertified | Free Project Management Essentials Certified (PMEC) training & certification.  | [Link](https://www.msicertified.com/free-project-management-certification.html) | Unlimited |
 | 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited |
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
+| SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
 
 ## Marketing
 
