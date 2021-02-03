@@ -22,7 +22,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | IT | CompTIA / Jobs.mo.gov | The CompTIA Mentored Learning Program is a free program for displaced workers offering online instructor-led workshops that cover a technical computer curriculum geared toward IT industry-recognized CompTIA certification. | [Link](https://jobs.mo.gov/content/comptia) | 04-Dec-2020 |
 | HYCU | HYCU | Free Certified Enterprise Cloud HYCU Admin certification for HYCU customers and partners. Free swags for those who complete before end of October 2020. | [Link](https://blog.hycu.com/data-protection/you-asked-we-listened-hycu-learning-center) | 31-Dec-2020 |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | 01-Jan-2021 |
-| Kubernetes | Rancher | Free “Certified Rancher Operator: Level 1” on-demand training & certification by Rancher. | [Link](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) | 14-Jan-2021 |
+| Kubernetes | Rancher | Free “Certified Rancher Operator: Level 1” on-demand training & certification by Rancher. | [Link](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) | 14-Jul-2021 |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
