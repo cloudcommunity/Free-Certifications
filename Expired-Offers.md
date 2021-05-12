@@ -4,6 +4,7 @@ The recently expired offers are to be added on top of the table.
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
+| Soft Skills | Coursera | 115 free online courses with certificates by Coursera. Credit card required. Don’t forget to cancel in time | [Link](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) | 31-Dec-2020 |
 | Cloud | Coursera | 10 cloud computing courses by Coursera with certificates, Google Cloud, AWS and Azure. | [Link](https://coursera.org/share/f63a3a1dd8aad10a4ede6b3f7aa6a4ed) | 31-Jul-2020 |
 | SEO | MOZ | Free access to almost all Moz Academy SEO courses. Use the promo code “wegotthis”. | [Link](https://academy.moz.com/) | 31-May-2020 |
 | Oracle Cloud | Oracle | 6 free Oracle Cloud training courses and certifications. | [Link](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html) | 15-May-2020 |
