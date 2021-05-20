@@ -8,7 +8,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | --- | --- | --- | --- | --- |
 | Google Cloud | Google | One free month at Qwiklabs, Pluralsight & Coursera learning platforms. Pluralsight & Coursera require a credit card. Don’t forget to cancel in time.   (Qwiklabs seem still to work. Rest - expired) | [Link](https://inthecloud.withgoogle.com/training-discount/register.html) | ?31-May-2020? |
 | Agile | Atlassian | Free access to Atlassian’s on-demand courses ($300 value each). | [Link](https://training.atlassian.com/free-training-catalog) | 30-Jun-2020 |
-| Databases | Exasol | Free Exasol training courses and certifications (€150 value each). | [Link](https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification) | 30-Jun-2020 |
 | Programming | Packt | 15 free programming & data science certificate courses by Packt ($20 value each). | [Link](https://courses.packtpub.com/pages/free) | 31-Jul-2020 |
 | Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEONLINE | [Link](https://aviatrix.teachable.com) | Limited Time |
 | Acronis | Acronis | Get professional training and certifications for free in technical or sales tracks (MSP/SP/CSP/VAR/SI/OEM). | [Link](https://summit.acronis.events/page/1597729/acronis-cyberfit-academy-training) | 18-Oct-2020 |
@@ -37,15 +36,12 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown |
 | Data Analytics | Sumo Logic | 6 free training courses and certifications by Sumo Logic. | [Link](https://www.sumologic.com/learn/certifications/) | Unlimited |
 | Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | Unlimited |
-| Databases | Mongodb | 12 free MongoDB courses with proof of completion. | [Link](https://university.mongodb.com/courses/catalog) | Unlimited |
 | Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
 | cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Data Science | IBM Cognitive Class | Data science courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited |
 |  IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
-|  Databases | CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
-|  Databases | CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
 | SysTrack | Lakeside Software | Free SysTrack certification and badge upon completion of self-paced courses through their online learning platform. They offer three courses: SysTrack Technician, SysTrack Engineer, and SysTrack Dashboard Designer. | [Link](https://info.lakesidesoftware.com/acton/fs/blocks/showLandingPage/a/31052/p/p-0081/t/page/fm/0) | Unknown |
 | Eggplant | Eggplant | Free Eggplant courses and certifications. | [Link](https://www.eggplantsoftware.com/training-and-certifications) | Unknown |
 | AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
@@ -54,7 +50,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
 | Calico | Calico | Certified Calico Operator: Level 1. | [Link](https://academy.tigera.io/course/certified-calico-operator-level-1/) | Unknown |
 | Stepik | Stepik | Several free courses with certificates are available for reference in design, computer science, mathematics, etc. | [Link](https://stepik.org/catalog/search?cert=true&free=true) | Unknown |
-| Databases | Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
 
 ## Security
 
@@ -90,6 +85,16 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Hootsuite | **[Students only]** Free Hootsuite Platform Certification (worth $99) and Social Marketing Certification (worth $199) through Hootsuite's Student Program. | [Link](https://hootsuite.com/pages/landing/student-program) | Unlimited |
 | HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
+
+## Database
+
+| Provider | Description | Link | Expiration |
+| --- | --- | --- | --- |
+| Databases | Exasol | Free Exasol training courses and certifications (€150 value each). | [Link](https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification) | 30-Jun-2020 |
+| Databases | Mongodb | 12 free MongoDB courses with proof of completion. | [Link](https://university.mongodb.com/courses/catalog) | Unlimited |
+| Databases | CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
+| Databases | CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
+| Databases | Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
 
 ## Others
 
