@@ -52,6 +52,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
 | Calico | Calico | Certified Calico Operator: Level 1. | [Link](https://academy.tigera.io/course/certified-calico-operator-level-1/) | Unknown |
 | Stepik | Stepik | Several free courses with certificates are available for reference in design, computer science, mathematics, etc. | [Link](https://stepik.org/catalog/search?cert=true&free=true) | Unknown |
+| LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
 
 ## Security
 
