@@ -4,6 +4,8 @@ Curated list of free courses &amp; certifications.
 
 The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
 
+🎉🎉🎉 Brought to you by the [Cloud Study Network](https://www.meetup.com/Cloud-Study-Network/) - a global tech community of friends that shares knowledge, goodies and good vibes! 🎉🎉🎉
+
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
 | Google Cloud | Google | One free month at Qwiklabs, Pluralsight & Coursera learning platforms. Pluralsight & Coursera require a credit card. Don’t forget to cancel in time.   (Qwiklabs seem still to work. Rest - expired) | [Link](https://inthecloud.withgoogle.com/training-discount/register.html) | ?31-May-2020? |
