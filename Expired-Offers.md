@@ -2,13 +2,11 @@
 
 The recently expired offers are to be added on top of the table.
 
+
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
-<<<<<<< Updated upstream
-=======
 | AI | Microsoft AI | Microsoft AI Classroom Series. Microsoft has joined forces with NASSCOM FutureSkills® to deliver Microsoft’s AI, machine learning and data science expertise to students through easy-to-consume modules including demos, hands-on workshop and assignments. | [Link](http://thetechco.in/MicrosoftAIforStudents/index) | Unknown |
 | Microsoft 365 | Microsoft | Complete Microsoft Cloud Skills Challenge (Microsoft 365) and qualify for a free certification exam voucher. | [Link](https://www.microsoft.com/en-us/us-partner-blog/2020/10/15/skill-up-and-stand-out-with-microsoft-365-technical-trainings/?utm_source=Twitter&utm_medium=Social&utm_campaign=skill-up-and-stand-out-with-microsoft-365-technical-trainings%2F) | 03-Nov-2020 |
->>>>>>> Stashed changes
 | Soft Skills | Coursera | 115 free online courses with certificates by Coursera. Credit card required. Don’t forget to cancel in time | [Link](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) | 31-Dec-2020 |
 | Cloud | Coursera | 10 cloud computing courses by Coursera with certificates, Google Cloud, AWS and Azure. | [Link](https://coursera.org/share/f63a3a1dd8aad10a4ede6b3f7aa6a4ed) | 31-Jul-2020 |
 | SEO | MOZ | Free access to almost all Moz Academy SEO courses. Use the promo code “wegotthis”. | [Link](https://academy.moz.com/) | 31-May-2020 |
