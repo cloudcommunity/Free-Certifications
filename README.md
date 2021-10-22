@@ -27,6 +27,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | HYCU | HYCU | Free Certified Enterprise Cloud HYCU Admin certification for HYCU customers and partners. Free swags for those who complete before end of October 2020. | [Link](https://blog.hycu.com/data-protection/you-asked-we-listened-hycu-learning-center) | 31-Dec-2020 |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | 01-Jan-2021 |
 | Kubernetes | Rancher | Free “Certified Rancher Operator: Level 1” on-demand training & certification by Rancher. | [Link](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) | 14-Jul-2021 |
+| Kami | Kami | Free online training courses to build your Kami skills and grow as a leader in your professional learning community | [Link](https://www.kamiapp.com/certified/) | 31-Oct-2021 |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
@@ -60,6 +61,12 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | DevOps-Automation | CHEF | FREE Chef Principles Certification Exam | [Link](https://learn.chef.io/courses/course-v1:chef+CP101+exam/about) | Unknown |
 | Observability | New Relic | FREE Full Stack Observability Exam | [Link](https://learn.newrelic.com/full-stack-observability-exam) | Unknown |
 | Chaos | Gremlin | FREE Gremlin Certified Chaos Engineering practitioner Certification| [Link](https://gremlin.coassemble.com/unlock/7Jan8Su#/) | Unknown |
+| Neo4j | Neo4j, Inc. | Become a Neo4j Certified Professional | [Link](https://neo4j.com/graphacademy/neo4j-certification/) | Unknown |
+| Confluent | Confluent | Fundamentals Accreditation | [Link](https://cloud.contentraven.com/confluent/self-userpackage?pid=MTI5NA%3D%3D) | Unknown |
+| Confluence | Confluence | Fundamentals Accreditation | [Link](https://university.atlassian.com/student/path/861302-confluence-fundamentals) | Unknown |
+| Extreme Networks | Extreme Networks | Extreme Networks Associate: Free training with an Industry Certification from the Extreme Academy | [Link](https://academy.extremenetworks.com/extreme-academy-live-registration/) | Unknown |
+| Gatling | Gatling Academy | Become an ace on Gatling’s Load Testing tool! | [Link](https://academy.gatling.io/) | Unknown |
+| Selenium | LambdaTest | Selenium Advanced Certifications | [Link](https://www.lambdatest.com/certifications/) | Unknown |
 
 ## Security
 
