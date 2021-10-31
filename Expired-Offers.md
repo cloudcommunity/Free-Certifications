@@ -17,6 +17,11 @@ The recently expired offers are to be added on top of the table.
 | RPA | Automation Anywhere | Automation Anywhere Certified Master RPA Professional (worth $100) free until 18-Sep-2020. | [Link](https://university.automationanywhere.com/certification/rpa-certification?sc=master#mScrlId) | 18-Sep-2020 |
 | Microsoft | Microsoft | Earn a free Microsoft certification exam after completing your first Microsoft Ignite Cloud Skills Challenge. | [Link](https://csc.docs.microsoft.com/ignite/registration) | 22-Sep-2020 |
 | PagerDuty | PagerDuty | PagerDuty Incident Responder Certification & Foundational Practitioner Certification (worth $7,500 per-team) for PagerDuty Summit attendees. | [Link](https://summit.pagerduty.com/global/getcertified) | 24-Sep-2020 |
+| IBM | IBM | Earn digital badges from Data & AI Essentials courses, and professional certificate or specialization from Coursera. | [Link](https://developer.ibm.com/conferences/digital-developer-conference-data-ai/) | 24-Nov-2020 |
+| Alibaba Cloud | Alibaba Cloud | Specialty Certification Bootcamp, a three-part event featuring three-hour videos summarizing the DevOps, Networking, and Data Analytics specialty certification program. | [Link](https://edu.alibabacloud.com/certification/specialty-bootcamp) | 23-Oct-2020 |
+| Alibaba Cloud | Alibaba Cloud | Get free ACA Certification exam voucher from Alibaba Cloud for attending this October webinar live. | [Link](https://resource.alibabacloud.com/webinar/detail.html?id=2534) / [Link](hhttps://resource.alibabacloud.com/webinar/detail.html?id=2535) / [Link](https://resource.alibabacloud.com/webinar/detail.html?id=2536) | 30-Oct-2020 |
+| InterSystems | InterSystems | Free InterSystems Certification exam attempts to all attendees of InterSystems Virtual Summit 2020. | [Link](https://www.intersystems.com/virtual-summit-2020/) | 05-Nov-2020 |
+| Acronis | Acronis | Get professional training and certifications for free in technical or sales tracks (MSP/SP/CSP/VAR/SI/OEM). | [Link](https://summit.acronis.events/page/1597729/acronis-cyberfit-academy-training) | 18-Oct-2020 |
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
