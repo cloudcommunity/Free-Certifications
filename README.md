@@ -61,6 +61,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
 | DevOps-Automation | CHEF | FREE Chef Principles Certification Exam | [Link](https://learn.chef.io/courses/course-v1:chef+CP101+exam/about) | Unknown |
 | Observability | New Relic | FREE Full Stack Observability Exam | [Link](https://learn.newrelic.com/full-stack-observability-exam) | Unknown |
+| Programmability | New Relic | FREE Programmability Certification Exam | [Link](https://learn.newrelic.com/programmability-certification) | Unknown |
 | Chaos | Gremlin | FREE Gremlin Certified Chaos Engineering practitioner Certification| [Link](https://gremlin.coassemble.com/unlock/7Jan8Su#/) | Unknown |
 | Neo4j | Neo4j, Inc. | Become a Neo4j Certified Professional | [Link](https://neo4j.com/graphacademy/neo4j-certification/) | Unknown |
 | Confluent | Confluent | Fundamentals Accreditation | [Link](https://cloud.contentraven.com/confluent/self-userpackage?pid=MTI5NA%3D%3D) | Unknown |
