@@ -134,3 +134,5 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Reuters | Reuters Training Course: Introduction to Digital Journalism | [Link](https://reutersdigitaljournalism.com/) | Unknown
 | OpenSAP | openSAP is SAP's free learning platform for everyone interested in learning about SAP's latest innovations and how to survive in the digital economy. | [Link](https://open.sap.com/) | Unknown
 | Kami | Free online training courses to build your Kami skills and grow as a leader in your professional learning community | [Link](https://www.kamiapp.com/certified/) | 31-Oct-2021 |
+
+https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81
