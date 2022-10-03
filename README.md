@@ -121,6 +121,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
 | CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
 | Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
+| Excel to MySQL |  Turn Data Into Value. Drive business process change by identifying & analyzing key metrics in 4 industry-relevant courses. | [Link](https://www.coursera.org/specializations/excel-mysql?irclickid=VgTyCDwQvxyNTUYyY-UC3zCVUkDQwD2RyXrWz00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c) | Unknown |
 
 ## Others
 
