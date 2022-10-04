@@ -76,6 +76,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
 | GitOps | codefresh.io | GitOps Fundamental certificate | [Link](https://codefresh.io/codefresh-news/get-gitops-certified-with-argo/) | Unknown |
+| Azure DevOps | Microsoft| Microsoft Azure Devops Expert Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take the Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) |  2023 |
 
 ## Security
 
@@ -88,6 +89,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 | SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
 | Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
+| Azure | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 I 
+
 ## Project Management
 
 | Provider | Description | Link | Expiration |
