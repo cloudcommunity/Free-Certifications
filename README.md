@@ -45,7 +45,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | Unknown |
 | DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown |
 | Data Analytics | Sumo Logic | 6 free training courses and certifications by Sumo Logic. | [Link](https://www.sumologic.com/learn/certifications/) | Unlimited |
-| Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | Unlimited |
+| Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, 
+s, React… | [Link](https://www.freecodecamp.org/) | Unlimited |
 | Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
 | cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
@@ -77,6 +78,18 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
 | GitOps | codefresh.io | GitOps Fundamental certificate | [Link](https://codefresh.io/codefresh-news/get-gitops-certified-with-argo/) | Unknown |
 | Azure DevOps | Microsoft| Microsoft Azure Devops Expert Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take the Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) |  2023 |
+| Integration | Boomi | Professional API Management Certification 2022| [Link](https://train.boomi.com/courses/505f285a-b319-4d8c-bfb5-edb9388718b4) | Unknown |
+| Integration | Boomi | Professional API Design Certification 2022| [Link](https://train.boomi.com/courses/4ff9ce74-b59b-46e8-8f5a-1bbf47a9646e) | Unknown |
+| Integration | Boomi | Associate Developer Certification 2022 | [Link](https://train.boomi.com/courses/7a16bffb-44eb-494d-910e-da9c9c73eb24) | Unknown |
+| Integration | Boomi | Associate EDI for X12 Certification 2022 | [Link](https://train.boomi.com/courses/1292458c-1cb8-4c70-89b3-a5511a93e0f0) | Unknown |
+| Integration | Boomi | Associate Flow Essentials Certification 2022 | [Link](https://train.boomi.com/courses/21ef4c54-2be2-47fe-b15a-a37d933dfa49) | Unknown |
+| Integration | Boomi | Associate Master Data Hub Certification 2022 | [Link](https://train.boomi.com/courses/f598855d-b139-4dff-8179-c5aaeb2ba7a1) | Unknown |
+| Integration | Boomi | Development and Application Architecture Certification 2022 | [Link](https://train.boomi.com/courses/5dddea89-e441-4491-9efe-213e3c024d46) | Unknown |
+| Integration | Boomi | Professional Developer Certification 2022 | [Link](https://train.boomi.com/courses/456252e5-315c-4269-a23c-88f7409a07ac) | Unknown |
+| Integration | Boomi | Professional Flow Developer Certification 2022 | [Link](https://train.boomi.com/courses/cbd792ee-c609-4a1f-a2f8-51ab97db4be7) | Unknown |
+| Integration | Boomi | Associate Administrator Certification 2022 | [Link](https://train.boomi.com/courses/12caf173-54f8-4550-8bf9-120753b2157e) | Unknown |
+| Integration | Boomi | Professional Linux Operational Administrator Certification 2022 | [Link](https://train.boomi.com/courses/43b35109-6218-486d-83b1-d2b43362db51) | Unknown |
+| Integration | Boomi | Professional Windows Operational Administrator Certification 2022 | [Link](https://train.boomi.com/courses/a43bbb4d-9747-404c-93ba-e696447e3189) | Unknown |
 
 ## Security
 
