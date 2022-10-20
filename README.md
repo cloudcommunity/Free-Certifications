@@ -45,8 +45,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | Unknown |
 | DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown |
 | Data Analytics | Sumo Logic | 6 free training courses and certifications by Sumo Logic. | [Link](https://www.sumologic.com/learn/certifications/) | Unlimited |
-| Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, 
-s, React… | [Link](https://www.freecodecamp.org/) | Unlimited |
 | Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
 | cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
