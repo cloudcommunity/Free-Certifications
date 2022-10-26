@@ -130,6 +130,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
 | CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
 | Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
+| Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
 
 ## Others
 
