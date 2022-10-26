@@ -147,5 +147,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kami | Free online training courses to build your Kami skills and grow as a leader in your professional learning community | [Link](https://www.kamiapp.com/certified/) | 31-Oct-2021 |
 | Miro | Miro essentials | [Link](https://academy.miro.com/learning-paths/miro-essentials) | Unknown |
 | Miro | Collaborative meetings | [Link](https://academy.miro.com/learning-paths/collaborative-meetings-in-miro) | Unknown |
-| Miro | Mapping and diagramming | [Link](https://academy.miro.com/learning-paths/mapping-and-diagramming-in-miro) | Unknown |
+| Miro | Dynatrace path to certification.Gain a competitive edge | [Link](https://academy.miro.com/learning-paths/mapping-and-diagramming-in-miro) | Unknown |
+| Dynatrace | Mapping and diagramming | [Link](https://university.dynatrace.com/overview#certification) | Unknown |
 | Cloud App Maker, Microsoft | Microsoft low-code Cloud App Maker Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=c20e4b59-b572-4f35-b00c-0316b71a0a5e&WT.mc_id=cloudskillschallenge_c20e4b59-b572-4f35-b00c-0316b71a0a5e&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
