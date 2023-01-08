@@ -144,7 +144,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kahoot! | Kahoot! Certified for schools, free program designed to help teachers become the ultimate Kahoot! superheroes. | [Link](https://kahoot.com/blog/2020/09/18/kahoot-certified-for-schools-better-than-before/) | Unlimited |
 | Explain Everything | Free Explain Everything course and certification. | [Link](https://explaineverything.com/the-explain-everything-certification-course-is-here/) | Unlimited |
 | SkillFront | Free SkillFront Entrepreneur Program™: Foundations Of Business And Entrepreneurship™ | [Link](https://www.skillfront.com/Free-Business-Entrepreneurship-Program-Certification) | Unlimited |
-| CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown | 
+| CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown |
+| CertiProf| Business Model Canvas Essentials Professional Certification - BMCEPC | [Link](https://certiprof.com/pages/business-model-canvas-essentials-bmce) | Unknown |
+| CertiProf| Business Intelligence Foundation Professional Certification - BIFPC (Spanish Only) | [Link](https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc) | Unknown |
 | Slack | Free Slack Skill Learning Paths and Badges (issued by accredible.com - these are not certifications but badges for skill specialists) | [Link](https://www.slackcertified.com/page/slack-skills) | Unknown |
 | Reuters | Reuters Training Course: Introduction to Digital Journalism | [Link](https://reutersdigitaljournalism.com/) | Unknown
 | OpenSAP | openSAP is SAP's free learning platform for everyone interested in learning about SAP's latest innovations and how to survive in the digital economy. | [Link](https://open.sap.com/) | Unknown
