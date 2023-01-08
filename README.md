@@ -59,6 +59,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | AI | Microsoft AI | Microsoft AI Classroom Series. Microsoft has joined forces with NASSCOM FutureSkills® to deliver Microsoft’s AI, machine learning and data science expertise to students through easy-to-consume modules including demos, hands-on workshop and assignments. | [Link](http://thetechco.in/MicrosoftAIforStudents/index) | Unknown |
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
 | Calico | Calico | Certified Calico Operator: Level 1. | [Link](https://academy.tigera.io/course/certified-calico-operator-level-1/) | Unknown |
+| Calico | Calico | Certified Calico Operator: AWS Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-aws-expert/) | Unknown |
+| Calico | Calico | Certified Calico Operator: Azure Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-azure-expert/) | Unknown |
+| Calico | Calico | Certified Calico Operator: eBPF | [Link](https://academy.tigera.io/course/certified-calico-operator-ebpf/) | Unknown |
 | Stepik | Stepik | Several free courses with certificates are available for reference in design, computer science, mathematics, etc. | [Link](https://stepik.org/catalog/search?cert=true&free=true) | Unknown |
 | LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
 | DevOps-Automation | CHEF | FREE Chef Principles Certification Exam | [Link](https://learn.chef.io/courses/course-v1:chef+CP101+exam/about) | Unknown |
