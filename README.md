@@ -83,6 +83,10 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Azure infrastructure architect | Microsoft | Microsoft Infrastructure architect Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&WT.mc_id=cloudskillschallenge_8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
 | AI Automation | Microsoft| Microsoft Azure AI Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8aee1e58-eeb8-409f-b0d0-d15afcc8045c&WT.mc_id=cloudskillschallenge_8aee1e58-eeb8-409f-b0d0-d15afcc8045c&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
 | Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
+| Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
+| Cilium | Isovalent | Cilium Service Mesh | [Link](https://isovalent.com/labs/cilium-service-mesh/) | Unknown |
+| Cilium | Isovalent | Cilium Cluster Mesh | [Link](https://isovalent.com/labs/cilium-cluster-mesh/) | Unknown |
+| Cilium | Isovalent | Cilium Enterprise: Network Policies | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/) | Unknown |
 
 
 ## Security
