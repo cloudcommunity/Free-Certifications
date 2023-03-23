@@ -65,7 +65,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Gatling | Gatling Academy | Become an ace on Gatling’s Load Testing tool! | [Link](https://academy.gatling.io/) | Unknown |
 | Appium | HeadSpin | Appium Advanced Certifications | [Link](https://www.headspin.io/courses/the-appium-webinar-collection) | Unknown |
 | Selenium | LambdaTest | Selenium Advanced Certifications | [Link](https://www.lambdatest.com/certifications/) | Unknown |
-| DeepLearning AI | Deep Learning | Deep Learning Specialization. Master Deep Learning, and Break into AI | [Link](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&siteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=bt30QTxEyjA) | Unknown | 
+| DeepLearning AI | Deep Learning | Deep Learning Specialization. Master Deep Learning, and Break into AI | [Link](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&siteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=bt30QTxEyjA) | Unknown |
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
 | GitOps | codefresh.io | GitOps Fundamental certificate | [Link](https://codefresh.io/codefresh-news/get-gitops-certified-with-argo/) | Unknown |
@@ -79,6 +79,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cilium | Isovalent | Cilium Enterprise: Network Policies | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/) | Unknown |
 | Cilium | Isovalent | Cilium LoadBalancer IPAM and BGP Service Advertisement | [Link](https://isovalent.com/labs/lb-ipam-bgp-service/) | Unknown |
 | Cilium | Isovalent | Cilium Enterprise: Zero Trust Visibility | [Link](https://isovalent.com/labs/cilium-enterprise-zero-trust-visibility/) | Unknown |
+| AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknwon |
 
 ## Security
 
@@ -91,7 +92,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 | SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
 | Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
-| Azure | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 I 
+| Azure | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 I
 
 ## Project Management
 
