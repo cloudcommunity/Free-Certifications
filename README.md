@@ -83,7 +83,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cilium | Isovalent | Cilium IPv6 Networking and Observability | [Link](https://isovalent.com/labs/ipv6-networking-and-observability/) | Unknown |
 | Cilium | Isovalent | Cilium Gateway API | [Link](https://isovalent.com/labs/gateway-api/) | Unknown |
 | AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknwon |
-| Fundamental certifications | Microsoft | Microsoft provides free certification exam vouchers for verified students. | [Link]([https://explore.skillbuilder.aws/learn/catalog](https://learn.microsoft.com/en-us/certifications/student-training-and-certification)) | Unknwon |
+| Fundamental certifications | Microsoft | Microsoft provides free certification exam vouchers for verified students. | [Link](https://learn.microsoft.com/en-us/certifications/student-training-and-certification) | Unknwon |
 
 ## Security
 
