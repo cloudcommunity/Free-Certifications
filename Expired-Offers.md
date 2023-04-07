@@ -34,6 +34,7 @@ The recently expired offers are to be added on top of the table.
 | Alibaba Cloud | Alibaba Cloud | Get free ACA Certification exam voucher from Alibaba Cloud for attending this October webinar live. | [Link](https://resource.alibabacloud.com/webinar/detail.html?id=2534) / [Link](hhttps://resource.alibabacloud.com/webinar/detail.html?id=2535) / [Link](https://resource.alibabacloud.com/webinar/detail.html?id=2536) | 30-Oct-2020 |
 | InterSystems | InterSystems | Free InterSystems Certification exam attempts to all attendees of InterSystems Virtual Summit 2020. | [Link](https://www.intersystems.com/virtual-summit-2020/) | 05-Nov-2020 |
 | Acronis | Acronis | Get professional training and certifications for free in technical or sales tracks (MSP/SP/CSP/VAR/SI/OEM). | [Link](https://summit.acronis.events/page/1597729/acronis-cyberfit-academy-training) | 18-Oct-2020 |
+| Dynatrace | Dynatrace path to certification.Gain a competitive edge | [Link](https://university.dynatrace.com/overview#certification) | Unknown |
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
