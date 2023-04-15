@@ -86,6 +86,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cilium | Isovalent | Cilium Gateway API | [Link](https://isovalent.com/labs/gateway-api/) | Unknown |
 | AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknwon |
 | Fundamental certifications | Microsoft | Microsoft provides free certification exam vouchers for verified students. | [Link](https://learn.microsoft.com/en-us/certifications/student-training-and-certification) | Unknwon |
+| JUNIPER | JNCIA | training for free and Complete all the course modules and pass the Voucher Assessment Test with a score of 70% or higher and you will receive a 75% discount | [Link]([https://learn.microsoft.com/en-us/certifications/student-training-and-certification](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-OPEN-LEARNING)) | Unknwon |
+
+
 
 ## Security
 
