@@ -124,6 +124,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Hootsuite | **[Students only]** Free Hootsuite Platform Certification (worth $99) and Social Marketing Certification (worth $199) through Hootsuite's Student Program. | [Link](https://hootsuite.com/pages/landing/student-program) | Unlimited |
 | HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
+| Microsoft | Microsoft Advertising Certified Professional. | [Link](https://learninglab.about.ads.microsoft.com/training/training-certification/) | Unlimited |
 
 ## Database
 
