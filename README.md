@@ -8,17 +8,11 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
-| Nutanix Certification | Nutanix | They are providing free certifications until New year | [Link](https://next.nutanix.com/education-blog-153/kick-start-the-new-year-with-free-certification-exams-40333) | January 31, 2022 |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
 | OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | Unlimited |
 | OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | Unlimited |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
-| Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
-| Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time |
-| Microsoft | Build: Azure Developer Challenge | [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81) |  21-Jun-2022 |
-| Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Limited Time |
-| Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Limited Time |
-| Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time |
+| Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.com/ace-multicloud-networking-training/) | Limited Time |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | Limited Time |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
@@ -64,7 +58,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Neo4j | Neo4j, Inc. | Become a Neo4j Certified Professional | [Link](https://neo4j.com/graphacademy/neo4j-certification/) | Unknown |
 | Confluent | Confluent | Fundamentals Accreditation | [Link](https://cloud.contentraven.com/confluent/self-userpackage?pid=MTI5NA%3D%3D) | Unknown |
 | Confluence | Confluence | Fundamentals Accreditation | [Link](https://university.atlassian.com/student/path/861302-confluence-fundamentals) | Unknown |
-| Extreme Networks | Extreme Networks | Extreme Networks Associate: Free training with an Industry Certification from the Extreme Academy | [Link](https://academy.extremenetworks.com/extreme-academy-live-registration/) | Unknown |
 | Gatling | Gatling Academy | Become an ace on Gatling’s Load Testing tool! | [Link](https://academy.gatling.io/) | Unknown |
 | Appium | HeadSpin | Appium Advanced Certifications | [Link](https://www.headspin.io/courses/the-appium-webinar-collection) | Unknown |
 | Selenium | LambdaTest | Selenium Advanced Certifications | [Link](https://www.lambdatest.com/certifications/) | Unknown |
@@ -72,9 +65,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
 | GitOps | codefresh.io | GitOps Fundamental certificate | [Link](https://codefresh.io/codefresh-news/get-gitops-certified-with-argo/) | Unknown |
-| Azure DevOps | Microsoft| Microsoft Azure Devops Expert Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take the Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) |  2022 |
-| Azure infrastructure architect | Microsoft | Microsoft Infrastructure architect Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&WT.mc_id=cloudskillschallenge_8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2022 |
-| AI Automation | Microsoft| Microsoft Azure AI Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8aee1e58-eeb8-409f-b0d0-d15afcc8045c&WT.mc_id=cloudskillschallenge_8aee1e58-eeb8-409f-b0d0-d15afcc8045c&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2022 |
 | Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
 | Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
 | Cilium | Isovalent | Cilium Service Mesh | [Link](https://isovalent.com/labs/cilium-service-mesh/) | Unknown |
