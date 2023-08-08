@@ -5,6 +5,8 @@ The recently expired offers are to be added on top of the table.
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
+ OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | retires on July 14, 2023 |
+| OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | retires on July 14, 2023 |
 | AWS | AWS | Get AWS Certified Sub-Saharan Africa Challenge. The first 6,000 participants who request vouchers will also be eligible to take a practice exam and take the AWS Cloud Practitioner certification exam free of charge (normally $100). | [Link](https://pages.awscloud.com/EMEA_TC_join-the-ssa-challenge.html) | 3-Dec-2021 |
 | Azure | Microsoft | Complete any one or more challenges and update your skills on LinkedIn on or before October 31, 2021, and stand a chance to collect your Free Microsoft Certification Exam Voucher*  | [Link]( https://www.microsoft.com/en-in/campaign/azuredeveloperleague/)| Oct 31 2021 |
 | HYCU | HYCU | Free Certified Enterprise Cloud HYCU Admin certification for HYCU customers and partners. Free swags for those who complete before end of October 2020. | [Link](https://blog.hycu.com/data-protection/you-asked-we-listened-hycu-learning-center) | 31-Dec-2020 |
