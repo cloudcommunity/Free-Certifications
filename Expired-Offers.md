@@ -35,6 +35,13 @@ The recently expired offers are to be added on top of the table.
 | InterSystems | InterSystems | Free InterSystems Certification exam attempts to all attendees of InterSystems Virtual Summit 2020. | [Link](https://www.intersystems.com/virtual-summit-2020/) | 05-Nov-2020 |
 | Acronis | Acronis | Get professional training and certifications for free in technical or sales tracks (MSP/SP/CSP/VAR/SI/OEM). | [Link](https://summit.acronis.events/page/1597729/acronis-cyberfit-academy-training) | 18-Oct-2020 |
 | Dynatrace | Dynatrace path to certification.Gain a competitive edge | [Link](https://university.dynatrace.com/overview#certification) | Unknown |
+| Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Closed/Expired |
+| Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Closed/Expired |
+| Microsoft | Build: Azure Developer Challenge | [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81) |  21-Jun-2022 |
+| Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Closed/Expired |
+| Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Closed/Expired |
+| Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Closed/Expired |
+
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
@@ -42,4 +49,3 @@ The recently expired offers are to be added on top of the table.
 | Alibaba Cloud | Last chance to register for the Cloud Academy Online event (May 28-29, 2020) and obtain during the event a free exam voucher (worth $200) for Alibaba Cloud Associate (ACA) certification [Link](https://sg.alibabacloud.com/campaign/cloud-academy-online) | 29-May-2020 |
 | ICSI | ICSI Certified Network Security Specialist (worth £500.00). Use the code “#StaySafeHome”. | [Link](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19) | 31/08/2020 |
 | KataCoda | O'Reilly | Plenty of free courses on various technologies like e.g. Kubernetes, Docker etc. | [Link](https://www.katacoda.com/) | Closed/expired |
-
