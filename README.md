@@ -92,6 +92,18 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
  | Integration | Boomi | Associate Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
  | Integration | Boomi | Professional Linux Operational Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
  | Integration | Boomi | Professional Windows Operational Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+ | Apache Kafka & OpenShift | RedHat |  Free Course On Event-Driven Architecture with Apache Kafka and Red Hat OpenShift Application Services Technical Overview | [Link](https://www.redhat.com/en/services/training/ad082-event-driven-architecture-apache-kafka-red-hat-openshift-application-services-technical-overview ) | Unknown |
+ | OpenStack | RedHat |  Free Course On Red Hat OpenStack Technical Overview | [Link](https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview ) | Unknown |
+ | Ansible | RedHat |  Free Course On Ansible Basics: Automation Technical Overview | [Link](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview ) | Unknown |
+ | RedHat Agile | RedHat |  Free Course On Red Hat Agile Integration Technical Overview | [Link](https://www.redhat.com/en/services/training/do040-red-hat-agile-integration-technical-overview) | Unknown |
+ | Kuberneted and OpenShift | RedHat |  Free Course On Containers, Kubernetes and Red Hat OpenShift Technical Overview   | [Link](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) | Unknown |
+ | Cloud-Native | RedHat |  Free Course On Developing Cloud-Native Applications with Microservices Architectures | [Link](https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures) | Unknown |
+ | Virtualization | RedHat |  Free Course On Virtualization and Infrastructure Migration Technical Overview  | [Link](https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview) | Unknown |
+ | RHE Linux | RedHat |  Free Course On Red Hat Enterprise Linux Technical Overview | [Link](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview) | Unknown |
+ | Ansible Automation for SAP | RedHat |  Free Course On Red Hat Ansible Automation for SAP Technical Overview | [Link](https://www.redhat.com/en/services/training/rh045-red-hat-ansible-automation-sap) | Unknown |
+ | Red Hat Satellite | RedHat |  Free Course On Red Hat Satellite Technical Overview  | [Link](https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview) | Unknown |
+ | Containers | RedHat |  Free Course On Running Containers with Red Hat Technical Overview | [Link](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=overview) | Unknown |
+ | Site Reliability Engineering | RedHat |  Free Course On Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview | [Link](https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview) | Unknown |
 
 ## Security
 
