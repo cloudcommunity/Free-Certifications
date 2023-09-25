@@ -9,8 +9,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
-| OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | Unlimited |
-| OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | Unlimited |
+| OCI | Oracle | Oracle Cloud Infrastructure 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) |Unlimited |
+| OCI | Oracle | Oracle Cloud Data Management 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) |Unlimited |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
 | Cloud Networking | Aviatrix  | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | Limited Time |
@@ -43,7 +43,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | API | API Academy | Free API Designer and API Security Architect certifications. | [Link](https://apiacademy.co/api-certification/) | Unknown |
 | API | Gravitee.io | Event-Native API Management Fundamentals Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) | Unknown |
 | API | Gravitee.io | Event-Native API Management Professional Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-enap-certification) | Unknown |
-| AI | Microsoft AI | Microsoft AI Classroom Series. Microsoft has joined forces with NASSCOM FutureSkills® to deliver Microsoft’s AI, machine learning and data science expertise to students through easy-to-consume modules including demos, hands-on workshop and assignments. | [Link](http://thetechco.in/MicrosoftAIforStudents/index) | Unknown |
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
 | Calico | Calico | Certified Calico Operator: Level 1. | [Link](https://academy.tigera.io/course/certified-calico-operator-level-1/) | Unknown |
 | Calico | Calico | Certified Calico Operator: AWS Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-aws-expert/) | Unknown |

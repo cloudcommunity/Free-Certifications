@@ -5,6 +5,8 @@ The recently expired offers are to be added on top of the table.
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
+| OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | retires on July 14, 2023 |
+| OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | retires on July 14, 2023 |
 | Nutanix Certification | Nutanix | They are providing free certifications until New year | [Link](https://next.nutanix.com/education-blog-153/kick-start-the-new-year-with-free-certification-exams-40333) | January 31, 2022 |
 | Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time |
 | Microsoft | Build: Azure Developer Challenge | [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81) |  21-Jun-2022 |
