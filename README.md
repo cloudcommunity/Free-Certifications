@@ -8,17 +8,19 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
-| Nutanix Certification | Nutanix | They are providing free certifications until New year | [Link](https://next.nutanix.com/education-blog-153/kick-start-the-new-year-with-free-certification-exams-40333) | 31-Jan-2022 |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
-| OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | Unlimited |
-| OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | Unlimited |
+| OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | September 31, 2023 |
+| AI Fundamentals | Databricks  | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Unlimited |
+| OCI | Oracle | Oracle Cloud Infrastructure 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) |Unlimited |
+| OCI | Oracle | Oracle Cloud Data Management 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) |Unlimited |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
 | Cloud Networking | Aviatrix  | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
 | Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time |
-| Microsoft | Build: Azure Developer Challenge | | [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81) |  21-Jun-2022 |
+| Microsoft | Build: Azure Developer Challenge | Learn how to design, build, test, and maintain cloud applications and services on Microsoft Azure.| [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81 ) |  21-Jun-2022 |
 | Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Limited Time |
 | Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Limited Time |
 | Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time |
+| Cloud Networking | Aviatrix  | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | Limited Time |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
@@ -41,7 +43,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Data Science | IBM Cognitive Class | Data science courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited |
-|  IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
+| IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
 | SysTrack | Lakeside Software | Free SysTrack certification and badge upon completion of self-paced courses through their online learning platform. They offer three courses: SysTrack Technician, SysTrack Engineer, and SysTrack Dashboard Designer. | [Link](https://info.lakesidesoftware.com/acton/fs/blocks/showLandingPage/a/31052/p/p-0081/t/page/fm/0) | Unknown |
 | Eggplant | Eggplant | Free Eggplant courses and certifications. | [Link](https://www.eggplantsoftware.com/training-and-certifications) | Unknown |
 | AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
@@ -49,7 +51,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | API | API Academy | Free API Designer and API Security Architect certifications. | [Link](https://apiacademy.co/api-certification/) | Unknown |
 | API | Gravitee.io | Event-Native API Management Fundamentals Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) | Unknown |
 | API | Gravitee.io | Event-Native API Management Professional Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-enap-certification) | Unknown |
-| AI | Microsoft AI | Microsoft AI Classroom Series. Microsoft has joined forces with NASSCOM FutureSkills® to deliver Microsoft’s AI, machine learning and data science expertise to students through easy-to-consume modules including demos, hands-on workshop and assignments. | [Link](http://thetechco.in/MicrosoftAIforStudents/index) | Unknown |
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
 | Calico | Calico | Certified Calico Operator: Level 1. | [Link](https://academy.tigera.io/course/certified-calico-operator-level-1/) | Unknown |
 | Calico | Calico | Certified Calico Operator: AWS Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-aws-expert/) | Unknown |
@@ -64,7 +65,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Neo4j | Neo4j, Inc. | Become a Neo4j Certified Professional | [Link](https://neo4j.com/graphacademy/neo4j-certification/) | Unknown |
 | Confluent | Confluent | Fundamentals Accreditation | [Link](https://cloud.contentraven.com/confluent/self-userpackage?pid=MTI5NA%3D%3D) | Unknown |
 | Confluence | Confluence | Fundamentals Accreditation | [Link](https://university.atlassian.com/student/path/861302-confluence-fundamentals) | Unknown |
-| Extreme Networks | Extreme Networks | Extreme Networks Associate: Free training with an Industry Certification from the Extreme Academy | [Link](https://academy.extremenetworks.com/extreme-academy-live-registration/) | Unknown |
 | Gatling | Gatling Academy | Become an ace on Gatling’s Load Testing tool! | [Link](https://academy.gatling.io/) | Unknown |
 | Appium | HeadSpin | Appium Advanced Certifications | [Link](https://www.headspin.io/courses/the-appium-webinar-collection) | Unknown |
 | Selenium | LambdaTest | Selenium Advanced Certifications | [Link](https://www.lambdatest.com/certifications/) | Unknown |
@@ -72,9 +72,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
 | GitOps | codefresh.io | GitOps Fundamental certificate | [Link](https://codefresh.io/codefresh-news/get-gitops-certified-with-argo/) | Unknown |
-| Azure DevOps | Microsoft| Microsoft Azure Devops Expert Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take the Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) |  2022 |
-| Azure infrastructure architect | Microsoft | Microsoft Infrastructure architect Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&WT.mc_id=cloudskillschallenge_8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2022 |
-| AI Automation | Microsoft| Microsoft Azure AI Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8aee1e58-eeb8-409f-b0d0-d15afcc8045c&WT.mc_id=cloudskillschallenge_8aee1e58-eeb8-409f-b0d0-d15afcc8045c&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2022 |
 | Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
 | Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
 | Cilium | Isovalent | Cilium Service Mesh | [Link](https://isovalent.com/labs/cilium-service-mesh/) | Unknown |
@@ -84,20 +81,35 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cilium | Isovalent | Cilium Enterprise: Zero Trust Visibility | [Link](https://isovalent.com/labs/cilium-enterprise-zero-trust-visibility/) | Unknown |
 | Cilium | Isovalent | Cilium IPv6 Networking and Observability | [Link](https://isovalent.com/labs/ipv6-networking-and-observability/) | Unknown |
 | Cilium | Isovalent | Cilium Gateway API | [Link](https://isovalent.com/labs/gateway-api/) | Unknown |
-| AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknwon |
-| Fundamental certifications | Microsoft | Microsoft provides free certification exam vouchers for verified students. | [Link](https://learn.microsoft.com/en-us/certifications/student-training-and-certification) | Unknwon |
+| Cilium | Isovalent | HTTP Golden Signals with Hubble and Grafana | [Link](https://isovalent.com/labs/hubble-grafana-golden-signals/) | Unknown |
+| Cilium | Isovalent | Advanced Gateway API Use Cases | [Link](https://isovalent.com/labs/advanced-gateway-api-use-cases/) | Unknown |
+| Cilium | Isovalent | Getting Started with Tetragon | [Link](https://isovalent.com/labs/security-observability-with-ebpf-and-cilium-tetragon/) | Unknown |
+| AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknown |
+| Fundamental certifications | Microsoft | Microsoft provides free certification exam vouchers for verified students. | [Link](https://learn.microsoft.com/en-us/certifications/student-training-and-certification) | Unknown |
 | Integration | Boomi | Professional API Management Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Professional API Design Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Associate Developer Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Associate EDI for X12 Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIFWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Associate Flow Essentials Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIZWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Associate Master Data Hub Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIPWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Development and Application Architecture Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJOWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Professional Developer Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJrWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Professional Flow Developer Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIUWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Associate Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Professional Linux Operational Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
- | Integration | Boomi | Professional Windows Operational Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Professional API Design Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Associate Developer Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Associate EDI for X12 Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIFWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Associate Flow Essentials Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIZWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Associate Master Data Hub Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIPWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Development and Application Architecture Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJOWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Professional Developer Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJrWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Professional Flow Developer Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIUWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Associate Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Professional Linux Operational Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Integration | Boomi | Professional Windows Operational Administrator Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
+| Apache Kafka & OpenShift | RedHat |  Free Course On Event-Driven Architecture with Apache Kafka and Red Hat OpenShift Application Services Technical Overview | [Link](https://www.redhat.com/en/services/training/ad082-event-driven-architecture-apache-kafka-red-hat-openshift-application-services-technical-overview ) | Unknown |
+| OpenStack | RedHat |  Free Course On Red Hat OpenStack Technical Overview | [Link](https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview ) | Unknown |
+| Ansible | RedHat |  Free Course On Ansible Basics: Automation Technical Overview | [Link](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview ) | Unknown |
+| RedHat Agile | RedHat |  Free Course On Red Hat Agile Integration Technical Overview | [Link](https://www.redhat.com/en/services/training/do040-red-hat-agile-integration-technical-overview) | Unknown |
+| Kuberneted and OpenShift | RedHat |  Free Course On Containers, Kubernetes and Red Hat OpenShift Technical Overview   | [Link](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) | Unknown |
+| Cloud-Native | RedHat |  Free Course On Developing Cloud-Native Applications with Microservices Architectures | [Link](https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures) | Unknown |
+| Virtualization | RedHat |  Free Course On Virtualization and Infrastructure Migration Technical Overview  | [Link](https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview) | Unknown |
+| RHE Linux | RedHat |  Free Course On Red Hat Enterprise Linux Technical Overview | [Link](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview) | Unknown |
+| Ansible Automation for SAP | RedHat |  Free Course On Red Hat Ansible Automation for SAP Technical Overview | [Link](https://www.redhat.com/en/services/training/rh045-red-hat-ansible-automation-sap) | Unknown |
+| Red Hat Satellite | RedHat |  Free Course On Red Hat Satellite Technical Overview  | [Link](https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview) | Unknown |
+| Containers | RedHat |  Free Course On Running Containers with Red Hat Technical Overview | [Link](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=overview) | Unknown |
+| Site Reliability Engineering | RedHat |  Free Course On Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview | [Link](https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview) | Unknown |
 
 ## Security
 
@@ -113,6 +125,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Microsoft | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end date to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 I
 | ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2023 |
 | Splunk | Free "Splunk Certified Cybersecurity Defense Analyst" certification exams while in beta ($130 USD per attempt thereafter) | [Link](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html) | Limited Time |
+| AttackIQ | Foundations of Purple Teaming | [Link](https://www.academy.attackiq.com/courses/foundations-of-purple-teaming) | Unlimited |
+| AttackIQ | Foundations of Breach & Attack Simulation | [Link](https://www.academy.attackiq.com/courses/foundations-of-breach-attack-simulation) | Unlimited |
+| AttackIQ | Foundations of Operationalizing MITRE ATT&CK v13 | [Link](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13) | Unlimited |
 
 ## Project Management
 
