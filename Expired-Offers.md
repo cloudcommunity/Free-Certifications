@@ -5,8 +5,18 @@ The recently expired offers are to be added on top of the table.
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
- OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | retires on July 14, 2023 |
+| OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | retires on July 14, 2023 |
 | OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | retires on July 14, 2023 |
+| Nutanix Certification | Nutanix | They are providing free certifications until New year | [Link](https://next.nutanix.com/education-blog-153/kick-start-the-new-year-with-free-certification-exams-40333) | January 31, 2022 |
+| Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time |
+| Microsoft | Build: Azure Developer Challenge | [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81) |  21-Jun-2022 |
+| Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Limited Time |
+| Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Limited Time |
+| Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time |
+| Extreme Networks | Extreme Networks | Extreme Networks Associate: Free training with an Industry Certification from the Extreme Academy | [Link](https://academy.extremenetworks.com/extreme-academy-live-registration/) | Unknown |
+| Azure DevOps | Microsoft| Microsoft Azure Devops Expert Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take the Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) |  2022 |
+| Azure infrastructure architect | Microsoft | Microsoft Infrastructure architect Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&WT.mc_id=cloudskillschallenge_8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2022 |
+| AI Automation | Microsoft| Microsoft Azure AI Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8aee1e58-eeb8-409f-b0d0-d15afcc8045c&WT.mc_id=cloudskillschallenge_8aee1e58-eeb8-409f-b0d0-d15afcc8045c&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2022 |
 | AWS | AWS | Get AWS Certified Sub-Saharan Africa Challenge. The first 6,000 participants who request vouchers will also be eligible to take a practice exam and take the AWS Cloud Practitioner certification exam free of charge (normally $100). | [Link](https://pages.awscloud.com/EMEA_TC_join-the-ssa-challenge.html) | 3-Dec-2021 |
 | Azure | Microsoft | Complete any one or more challenges and update your skills on LinkedIn on or before October 31, 2021, and stand a chance to collect your Free Microsoft Certification Exam Voucher*  | [Link]( https://www.microsoft.com/en-in/campaign/azuredeveloperleague/)| Oct 31 2021 |
 | HYCU | HYCU | Free Certified Enterprise Cloud HYCU Admin certification for HYCU customers and partners. Free swags for those who complete before end of October 2020. | [Link](https://blog.hycu.com/data-protection/you-asked-we-listened-hycu-learning-center) | 31-Dec-2020 |
@@ -37,6 +47,13 @@ The recently expired offers are to be added on top of the table.
 | InterSystems | InterSystems | Free InterSystems Certification exam attempts to all attendees of InterSystems Virtual Summit 2020. | [Link](https://www.intersystems.com/virtual-summit-2020/) | 05-Nov-2020 |
 | Acronis | Acronis | Get professional training and certifications for free in technical or sales tracks (MSP/SP/CSP/VAR/SI/OEM). | [Link](https://summit.acronis.events/page/1597729/acronis-cyberfit-academy-training) | 18-Oct-2020 |
 | Dynatrace | Dynatrace path to certification.Gain a competitive edge | [Link](https://university.dynatrace.com/overview#certification) | Unknown |
+| Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Closed/Expired |
+| Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Closed/Expired |
+| Microsoft | Build: Azure Developer Challenge | [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81) |  21-Jun-2022 |
+| Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Closed/Expired |
+| Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Closed/Expired |
+| Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Closed/Expired |
+
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
@@ -44,4 +61,3 @@ The recently expired offers are to be added on top of the table.
 | Alibaba Cloud | Last chance to register for the Cloud Academy Online event (May 28-29, 2020) and obtain during the event a free exam voucher (worth $200) for Alibaba Cloud Associate (ACA) certification [Link](https://sg.alibabacloud.com/campaign/cloud-academy-online) | 29-May-2020 |
 | ICSI | ICSI Certified Network Security Specialist (worth £500.00). Use the code “#StaySafeHome”. | [Link](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19) | 31/08/2020 |
 | KataCoda | O'Reilly | Plenty of free courses on various technologies like e.g. Kubernetes, Docker etc. | [Link](https://www.katacoda.com/) | Closed/expired |
-
