@@ -15,22 +15,22 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | OCI | Oracle | Oracle Cloud Data Management 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) |Unlimited |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
 | Cloud Networking | Aviatrix  | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
-| Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time |
+| Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time |
 | Microsoft | Build: Azure Developer Challenge | Learn how to design, build, test, and maintain cloud applications and services on Microsoft Azure.| [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81 ) |  21-Jun-2022 |
-| Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Limited Time |
-| Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Limited Time |
-| Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time |
+| Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Limited Time |
+| Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Limited Time |
+| Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time |
 | Cloud Networking | Aviatrix  | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | Limited Time |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
 | Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown |
-| Google Cloud | Qwiklabs | Claim 30 days free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
+| Google Cloud | Qwiklabs | Claim 30 days of free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
 | Huawei Networking | Huawei Academy | Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications. | [Link](https://ilearningx.huawei.com/portal/courses) | Unknown |
 | Huawei Networking | Huawei Academ | Free course & certification (HCIA level, $200 value). | [Link](https://e.huawei.com/en/talent/#/ict/partner-details?consultationId=545&consClassCode=AUTH&consTypeCode=consulationRZZX&urlForm=certifi) | Unknown |
 | Programming | JetBrains | Free courses by JetBrains Academy for learning Java, Kotlin & Python. | [Link](https://www.jetbrains.com/academy/) | Unknown |
 | Cloud Monitoring | Elastic | Free access to 11 Elastic Stack courses ($200 value each). | [Link](https://www.elastic.co/training/free) | Unknown |
-| Diverse | Udacity | One free month access to nanodegree programs by Udacity ($400 value). Credit card / PayPal required. Don’t forget to cancel in time. | [Link](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) | Unknown |
+| Diverse | Udacity | One free month of access to nanodegree programs by Udacity ($400 value). Credit card / PayPal required. Don’t forget to cancel in time. | [Link](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) | Unknown |
 | Alibaba Cloud | Coursera | “Architecting on Alibaba Cloud Specialization” at Coursera. | [Link](https://www.coursera.org/specializations/alibabacloud) | Unknown |
 | DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | Unknown |
 | DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown |
@@ -57,7 +57,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Calico | Calico | Certified Calico Operator: Azure Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-azure-expert/) | Unknown |
 | Calico | Calico | Certified Calico Operator: eBPF | [Link](https://academy.tigera.io/course/certified-calico-operator-ebpf/) | Unknown |
 | Stepik | Stepik | Several free courses with certificates are available for reference in design, computer science, mathematics, etc. | [Link](https://stepik.org/catalog/search?cert=true&free=true) | Unknown |
-| LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
+| LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security, and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
 | DevOps-Automation | CHEF | FREE Chef Principles Certification Exam | [Link](https://learn.chef.io/courses/course-v1:chef+CP101+exam/about) | Unknown |
 | Observability | New Relic | FREE Full Stack Observability Exam | [Link](https://learn.newrelic.com/full-stack-observability-exam) | Unknown |
 | Programmability | New Relic | FREE Programmability Certification Exam | [Link](https://learn.newrelic.com/programmability-certification) | Unknown |
@@ -84,7 +84,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cilium | Isovalent | HTTP Golden Signals with Hubble and Grafana | [Link](https://isovalent.com/labs/hubble-grafana-golden-signals/) | Unknown |
 | Cilium | Isovalent | Advanced Gateway API Use Cases | [Link](https://isovalent.com/labs/advanced-gateway-api-use-cases/) | Unknown |
 | Cilium | Isovalent | Getting Started with Tetragon | [Link](https://isovalent.com/labs/security-observability-with-ebpf-and-cilium-tetragon/) | Unknown |
-| AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknown |
+| AWS Skill Builder | AWS | A repository of over 700 training lessons to help you learn AWS, refine your knowledge of AWS services, and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknown |
 | Integration | Boomi | Professional API Management Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
 | Integration | Boomi | Professional API Design Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
 | Integration | Boomi | Associate Developer Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
@@ -101,7 +101,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | OpenStack | RedHat |  Free Course On Red Hat OpenStack Technical Overview | [Link](https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview ) | Unknown |
 | Ansible | RedHat |  Free Course On Ansible Basics: Automation Technical Overview | [Link](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview ) | Unknown |
 | RedHat Agile | RedHat |  Free Course On Red Hat Agile Integration Technical Overview | [Link](https://www.redhat.com/en/services/training/do040-red-hat-agile-integration-technical-overview) | Unknown |
-| Kuberneted and OpenShift | RedHat |  Free Course On Containers, Kubernetes and Red Hat OpenShift Technical Overview   | [Link](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) | Unknown |
+| Kubernetes and OpenShift | RedHat |  Free Course On Containers, Kubernetes and Red Hat OpenShift Technical Overview   | [Link](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) | Unknown |
 | Cloud-Native | RedHat |  Free Course On Developing Cloud-Native Applications with Microservices Architectures | [Link](https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures) | Unknown |
 | Virtualization | RedHat |  Free Course On Virtualization and Infrastructure Migration Technical Overview  | [Link](https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview) | Unknown |
 | RHE Linux | RedHat |  Free Course On Red Hat Enterprise Linux Technical Overview | [Link](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview) | Unknown |
@@ -117,11 +117,11 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
 | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
-| APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible indiviuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
+| APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible individuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
 | Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 | SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
-| Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
-| Microsoft | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end date to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 I
+| Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
+| Microsoft | Microsoft Azure Associate Level  Certification, Register and complete the learning path within the start and end date to get a Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 I
 | ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2023 |
 | Splunk | Free "Splunk Certified Cybersecurity Defense Analyst" certification exams while in beta ($130 USD per attempt thereafter) | [Link](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html) | Limited Time |
 | AttackIQ | Foundations of Purple Teaming | [Link](https://www.academy.attackiq.com/courses/foundations-of-purple-teaming) | Unlimited |
@@ -146,7 +146,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | --- | --- | --- | --- |
 | Google | Fundamentals of Digital Marketing free course & certificate by Google. | [Link](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | Unlimited |
 | Microsoft | Microsoft Advertising certification and training. | [Link](https://about.ads.microsoft.com/en-us/resources/training/get-certified) | Unlimited |
-| SMstudy | 4 free marketing related fundamental certifications by SMstudy. | [Link](https://www.smstudy.com/freeresources/earn-4-free-certifications) | Unlimited |
+| SMstudy | 4 free marketing-related fundamental certifications by SMstudy. | [Link](https://www.smstudy.com/freeresources/earn-4-free-certifications) | Unlimited |
 | DMAC | Free Facebook & Instagram Marketing course and certification by DMAC (Digital Marketing Academy of Canada). | [Link](https://www.yourdmac.com/free-online-social-media-marketing-course) | Limited Time |
 | Hootsuite | **[Students only]** Free Hootsuite Platform Certification (worth $99) and Social Marketing Certification (worth $199) through Hootsuite's Student Program. | [Link](https://hootsuite.com/pages/landing/student-program) | Unlimited |
 | HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
@@ -170,9 +170,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
-| Salesforce | Free Salesforce courses with career learning paths and _superbadges_. Also, free half-day [Salesforce Certification preparation webinar](https://trailhead.salesforce.com/credentials/cert-days), offering $70 discount coupon for any $200 exam for all attendees. | [Link](https://trailhead.salesforce.com/en/home) | Unlimited |
-| Revenera | Revenera Certification free of charge to approved members of the legal community. | [Link](https://info.revenera.com/SCA-Legal-Certification-Program-Request) | Unlimited |
-| Kahoot! | Kahoot! Certified for schools, free program designed to help teachers become the ultimate Kahoot! superheroes. | [Link](https://kahoot.com/blog/2020/09/18/kahoot-certified-for-schools-better-than-before/) | Unlimited |
+| Salesforce | Free Salesforce courses with career learning paths and _superbadges_. Also, free half-day [Salesforce Certification preparation webinar](https://trailhead.salesforce.com/credentials/cert-days), offering a $70 discount coupon for any $200 exam for all attendees. | [Link](https://trailhead.salesforce.com/en/home) | Unlimited |
+| Revenera | Revenera Certification, free of charge to approved members of the legal community. | [Link](https://info.revenera.com/SCA-Legal-Certification-Program-Request) | Unlimited |
+| Kahoot! | Kahoot! Certified for schools, this free program is designed to help teachers become the ultimate Kahoot! superheroes. | [Link](https://kahoot.com/blog/2020/09/18/kahoot-certified-for-schools-better-than-before/) | Unlimited |
 | Explain Everything | Free Explain Everything course and certification. | [Link](https://explaineverything.com/the-explain-everything-certification-course-is-here/) | Unlimited |
 | SkillFront | Free SkillFront Entrepreneur Program™: Foundations Of Business And Entrepreneurship™ | [Link](https://www.skillfront.com/Free-Business-Entrepreneurship-Program-Certification) | Unlimited |
 | CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown |
@@ -185,6 +185,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Miro | Miro essentials | [Link](https://academy.miro.com/learning-paths/miro-essentials) | Unknown |
 | Miro | Collaborative meetings | [Link](https://academy.miro.com/learning-paths/collaborative-meetings-in-miro) | Unknown |
 | Miro | Mapping and diagramming | [Link](https://academy.miro.com/learning-paths/mapping-and-diagramming-in-miro) | Unknown |
-| Cloud App Maker, Microsoft | Microsoft low-code Cloud App Maker Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=c20e4b59-b572-4f35-b00c-0316b71a0a5e&WT.mc_id=cloudskillschallenge_c20e4b59-b572-4f35-b00c-0316b71a0a5e&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
+| Cloud App Maker, Microsoft | Microsoft low-code Cloud App Maker Certification: Register and complete the learning path within the start and end date to get a Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=c20e4b59-b572-4f35-b00c-0316b71a0a5e&WT.mc_id=cloudskillschallenge_c20e4b59-b572-4f35-b00c-0316b71a0a5e&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
 | EF SET | 15-minute English quiz to validate reading skills (English grammar and vocabulary) and listening skills, aligned to CEFR levels. | [Link](https://www.efset.org/quick-check/) | Unlimited |
 | EF SET | 50-minute test to receive your personalized English certificate to add to your LinkedIn profile or CV, aligned to CEFR levels. | [Link](https://www.efset.org/ef-set-50/) | Unlimited |
