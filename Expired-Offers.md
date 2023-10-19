@@ -61,3 +61,4 @@ The recently expired offers are to be added on top of the table.
 | Alibaba Cloud | Last chance to register for the Cloud Academy Online event (May 28-29, 2020) and obtain during the event a free exam voucher (worth $200) for Alibaba Cloud Associate (ACA) certification [Link](https://sg.alibabacloud.com/campaign/cloud-academy-online) | 29-May-2020 |
 | ICSI | ICSI Certified Network Security Specialist (worth £500.00). Use the code “#StaySafeHome”. | [Link](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19) | 31/08/2020 |
 | KataCoda | O'Reilly | Plenty of free courses on various technologies like e.g. Kubernetes, Docker etc. | [Link](https://www.katacoda.com/) | Closed/expired |
+| Fundamental certifications | Microsoft | Microsoft provides free certification exam vouchers for verified students. | [Link](https://learn.microsoft.com/en-us/certifications/student-training-and-certification) | 30-Jun-2023 |
