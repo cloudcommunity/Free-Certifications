@@ -108,6 +108,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Red Hat Satellite | RedHat |  Free Course On Red Hat Satellite Technical Overview  | [Link](https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview) | Unknown |
 | Containers | RedHat |  Free Course On Running Containers with Red Hat Technical Overview | [Link](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=overview) | Unknown |
 | Site Reliability Engineering | RedHat |  Free Course On Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview | [Link](https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview) | Unknown |
+| GitOps | [Akuity](https://akuity.io/) | Introduction to Continuous Delivery and GitOps using Argo CD | [Link](https://academy.akuity.io/courses/gitops-argocd-intro) | Unknown |
 
 ## Security
 
