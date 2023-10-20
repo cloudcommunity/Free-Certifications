@@ -135,7 +135,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited |
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
-| GreatLearning | Project Management by Great Learning | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
+| GreatLearning | Free Project Management by Great Learning | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
 
 ## Marketing
 
