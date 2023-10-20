@@ -187,3 +187,4 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | EF SET | 15-minute English quiz to validate reading skills (English grammar and vocabulary) and listening skills, aligned to CEFR levels. | [Link](https://www.efset.org/quick-check/) | Unlimited |
 | EF SET | 50-minute test to receive your personalized English certificate to add to your LinkedIn profile or CV, aligned to CEFR levels. | [Link](https://www.efset.org/ef-set-50/) | Unlimited |
 | Microsoft | The Microsoft Licensing Specialist certifications demonstrate competence in a particular area of Microsoft product licensing. You will require an intermediate level of knowledge to achieve these certifications. | [Link](https://getlicensingready.com/Main.aspx) | Unlimited |
+| ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
