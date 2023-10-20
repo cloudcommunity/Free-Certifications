@@ -108,11 +108,13 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Red Hat Satellite | RedHat |  Free Course On Red Hat Satellite Technical Overview  | [Link](https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview) | Unknown |
 | Containers | RedHat |  Free Course On Running Containers with Red Hat Technical Overview | [Link](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=overview) | Unknown |
 | Site Reliability Engineering | RedHat |  Free Course On Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview | [Link](https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview) | Unknown |
+| Cisco U | Understanding Cisco Network Automation Essentials - DEVNAE - 16 continuing education credits free | [Link](https://u.cisco.com/path/3) | Unlimited |
 
 ## Security
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
+| Cisco U | Understanding Cisco Cybersecurity Operations Fundamentals - CBROPS - 30 continuing education credits free | [Link](https://u.cisco.com/path/32) | 16-Nov-2023 |
 | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
 | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
