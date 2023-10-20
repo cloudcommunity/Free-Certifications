@@ -2,7 +2,7 @@
 
 A curated list of free courses &amp; certifications. Don't forget to star ⭐ this repository.
 
-The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
+The offers on top of the table are time-limited and will expire soon.
 
 🎉 Brought to you by the [Cloud Study Network](https://www.meetup.com/Cloud-Study-Network/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
 
