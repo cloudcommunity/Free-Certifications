@@ -60,6 +60,7 @@ The recently expired offers are to be added on top of the table.
 | Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Limited Time |
 | Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time |
 | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
+| LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security, and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
