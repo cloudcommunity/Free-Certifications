@@ -10,6 +10,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | --- | --- | --- | --- | --- |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
 | OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | September 31, 2023 |
+| PyTorch and Deep Learning for Decision Makers | EdX | Free lesson and paid certification | [Link](https://www.edx.org/learn/pytorch/the-linux-foundation-pytorch-and-deep-learning-for-decision-makers?index=product&objectID=course-e7a8747c-c83c-4744-a14c-775579136778&webview=false&campaign=PyTorch+and+Deep+Learning+for+Decision+Makers&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fmachine-learning) | 7 weeks from enrollment |
 | AI Fundamentals | Databricks  | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Unlimited |
 | OCI | Oracle | Oracle Cloud Infrastructure 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) |Unlimited |
 | OCI | Oracle | Oracle Cloud Data Management 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) |Unlimited |
