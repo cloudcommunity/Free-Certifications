@@ -55,7 +55,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Calico | Calico | Certified Calico Operator: Azure Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-azure-expert/) | Unknown |
 | Calico | Calico | Certified Calico Operator: eBPF | [Link](https://academy.tigera.io/course/certified-calico-operator-ebpf/) | Unknown |
 | Stepik | Stepik | Several free courses with certificates are available for reference in design, computer science, mathematics, etc. | [Link](https://stepik.org/catalog/search?cert=true&free=true) | Unknown |
-| LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security, and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
 | DevOps-Automation | CHEF | FREE Chef Principles Certification Exam | [Link](https://learn.chef.io/courses/course-v1:chef+CP101+exam/about) | Unknown |
 | Observability | New Relic | FREE Full Stack Observability Exam | [Link](https://learn.newrelic.com/full-stack-observability-exam) | Unknown |
 | Programmability | New Relic | FREE Programmability Certification Exam | [Link](https://learn.newrelic.com/programmability-certification) | Unknown |
