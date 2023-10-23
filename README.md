@@ -73,19 +73,32 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
 | Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
 | Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
-| Cilium | Isovalent | Cilium Service Mesh | [Link](https://isovalent.com/labs/cilium-service-mesh/) | Unknown |
+| Cilium | Isovalent | Cilium Ingress Controller | [Link](https://isovalent.com/labs/cilium-ingress-controller/) | Unknown |
 | Cilium | Isovalent | Cilium Cluster Mesh | [Link](https://isovalent.com/labs/cilium-cluster-mesh/) | Unknown |
-| Cilium | Isovalent | Cilium Enterprise: Network Policies | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/) | Unknown |
+| Cilium | Isovalent | Isovalent Enterprise for Cilium: Network Policies | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/) | Unknown |
+| Cilium | Isovalent | BGP on Cilium | [Link](https://isovalent.com/labs/bgp-on-cilium/) | Unknown |
+| Cilium | Isovalent | Advanced BGP Features | [Link](https://isovalent.com/labs/advanced-bgp-features/) | Unknown |
 | Cilium | Isovalent | Cilium LoadBalancer IPAM and BGP Service Advertisement | [Link](https://isovalent.com/labs/lb-ipam-bgp-service/) | Unknown |
-| Cilium | Isovalent | Cilium Enterprise: Zero Trust Visibility | [Link](https://isovalent.com/labs/cilium-enterprise-zero-trust-visibility/) | Unknown |
+| Cilium | Isovalent | Cilium LoadBalancer IPAM and L2 Service Announcement | [Link](https://isovalent.com/labs/cilium-loadbalancer-ipam-and-l2-service-announcement/) | Unknown |
+| Cilium | Isovalent | Isovalent Enterprise for Cilium: Zero Trust Visibility | [Link](https://isovalent.com/labs/cilium-enterprise-zero-trust-visibility/) | Unknown |
 | Cilium | Isovalent | Cilium IPv6 Networking and Observability | [Link](https://isovalent.com/labs/ipv6-networking-and-observability/) | Unknown |
 | Cilium | Isovalent | Cilium Gateway API | [Link](https://isovalent.com/labs/gateway-api/) | Unknown |
-| Cilium | Isovalent | HTTP Golden Signals with Hubble and Grafana | [Link](https://isovalent.com/labs/hubble-grafana-golden-signals/) | Unknown |
 | Cilium | Isovalent | Advanced Gateway API Use Cases | [Link](https://isovalent.com/labs/advanced-gateway-api-use-cases/) | Unknown |
-| Cilium | Isovalent | Getting Started with Tetragon | [Link](https://isovalent.com/labs/security-observability-with-ebpf-and-cilium-tetragon/) | Unknown |
+| Cilium | Isovalent | L7 Load-Balancing with Kubernetes Services + Annotations | [Link](https://isovalent.com/labs/l7-lb-kubernetes-annotations/) | Unknown |
+| Cilium | Isovalent | Isovalent Enterprise for Cilium: Connectivity Visibility with Hubble | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-connectivity-visibility/) | Unknown |
+| Cilium | Isovalent | Golden Signals with Hubble and Grafana | [Link](https://isovalent.com/labs/hubble-grafana-golden-signals/) | Unknown |
 | Cilium | Isovalent | Mutual Authentication with Cilium | [Link](https://isovalent.com/labs/mutual-authentication-with-cilium/) | Unknown |
 | Cilium | Isovalent | Cilium Transparent Encryption with IPSec and WireGuard  | [Link](https://isovalent.com/labs/cilium-transparent-encryption-with-ipsec-and-wireguard/) | Unknown |
-| Cilium | Isovalent | Isovalent Enterprise for Cilium: Security Visibility  | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-security-visibility/) | Unknown |
+| Cilium | Isovalent | Cilium Egress Gateway | [Link](https://isovalent.com/labs/cilium-egress-gateway/) | Unknown |
+| Cilium | Isovalent | Cilium Host Firewall | [Link](https://isovalent.com/labs/cilium-host-firewall/) | Unknown |
+| Cilium | Isovalent | SCTP on Cilium | [Link](https://isovalent.com/labs/sctp-on-cilium/) | Unknown |
+| Cilium | Isovalent | Cilium BIG TCP | [Link](https://isovalent.com/labs/cilium-big-tcp/) | Unknown |
+| Cilium | Isovalent | Migrating to Cilium | [Link](https://isovalent.com/labs/migrating-to-cilium/) | Unknown |
+| Cilium Tetragon | Isovalent | Getting Started with Tetragon | [Link](https://isovalent.com/labs/security-observability-with-ebpf-and-cilium-tetragon/) | Unknown |
+| Cilium Tetragon | Isovalent | Isovalent Enterprise for Cilium: Security Visibility  | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-security-visibility/) | Unknown |
+| Cilium Tetragon | Isovalent | Isovalent Enterprise for Cilium: TLS Visibility | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-tls-visibility/) | Unknown |
+| eBPF | Isovalent | Getting Started with eBPF | [Link](https://isovalent.com/labs/getting-started-with-ebpf/) | Unknown |
+| eBPF | Isovalent | Learning eBPF Tutorial | [Link](https://isovalent.com/labs/learning-ebpf-tutorial/) | Unknown |
 | AWS Skill Builder | AWS | A repository of over 700 training lessons to help you learn AWS, refine your knowledge of AWS services, and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknown |
 | Integration | Boomi | Professional API Management Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
 | Integration | Boomi | Professional API Design Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
