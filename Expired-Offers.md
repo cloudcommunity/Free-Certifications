@@ -61,6 +61,13 @@ The recently expired offers are to be added on top of the table.
 | Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time |
 | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2-day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
 | LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security, and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
+| Cilium | Isovalent | Cilium Service Mesh | [Link](https://isovalent.com/labs/cilium-service-mesh/) | Unknown |
+| Cilium | Isovalent | Cilium Enterprise: Network Policies | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/) | Unknown |
+| Cilium | Isovalent | Cilium Enterprise: Zero Trust Visibility | [Link](https://isovalent.com/labs/cilium-enterprise-zero-trust-visibility/) | Unknown |
+| Cilium | Isovalent | HTTP Golden Signals with Hubble and Grafana | [Link](https://isovalent.com/labs/hubble-grafana-golden-signals/) | Unknown |
+| Cilium | Isovalent | Getting Started with Tetragon | [Link](https://isovalent.com/labs/security-observability-with-ebpf-and-cilium-tetragon/) | Unknown |
+| Cilium | Isovalent | Isovalent Enterprise for Cilium: Security Visibility  | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-security-visibility/) | Unknown |
+| OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
