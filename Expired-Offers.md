@@ -67,7 +67,6 @@ The recently expired offers are to be added on top of the table.
 | Cilium | Isovalent | HTTP Golden Signals with Hubble and Grafana | [Link](https://isovalent.com/labs/hubble-grafana-golden-signals/) | Unknown |
 | Cilium | Isovalent | Getting Started with Tetragon | [Link](https://isovalent.com/labs/security-observability-with-ebpf-and-cilium-tetragon/) | Unknown |
 | Cilium | Isovalent | Isovalent Enterprise for Cilium: Security Visibility  | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-security-visibility/) | Unknown |
-| OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
 
 | Technology | Offer | Expiration | 
 | --- | --- | --- |
