@@ -138,6 +138,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Site Reliability Engineering | RedHat |  Free Course On Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview | [Link](https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview) | Unknown |
 | GitOps | Akuity | Introduction to Continuous Delivery and GitOps using Argo CD | [Link](https://academy.akuity.io/courses/gitops-argocd-intro) | Unknown |
 | Network | Cisco U | Understanding Cisco Network Automation Essentials - DEVNAE - 16 continuing education credits free | [Link](https://u.cisco.com/path/3) | Unlimited |
+Game Development with Unity | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
 
 ## Security
 
