@@ -9,6 +9,17 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 🎉 Brought to you by the [Cloud Study Network](https://www.meetup.com/Cloud-Study-Network/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
 
+## Table of Contents
+
+- [General](#general)
+- [Security](#security)
+- [Databases](#databases)
+- [Project Management](#project-management)
+- [Marketing](#marketing)
+- [Miscellaneous](#miscellaneous)
+
+## General
+
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
@@ -144,6 +155,19 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | AttackIQ | Foundations of Breach & Attack Simulation | [Link](https://www.academy.attackiq.com/courses/foundations-of-breach-attack-simulation) | Unlimited |
 | AttackIQ | Foundations of Operationalizing MITRE ATT&CK v13 | [Link](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13) | Unlimited |
 
+## Databases
+
+| Provider | Description | Link | Expiration |
+| --- | --- | --- | --- |
+| Exasol | Free Exasol training courses and certifications (€150 value each). | [Link](https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification) | 30-Jun-2020 |
+| Mongodb | 12 free MongoDB courses with proof of completion. | [Link](https://university.mongodb.com/courses/catalog) | Unlimited |
+| CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
+| CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
+| Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
+| Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
+| Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
+| SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
+
 ## Project Management
 
 | Provider | Description | Link | Expiration |
@@ -170,21 +194,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
 | Microsoft | Microsoft Advertising Certified Professional. | [Link](https://learninglab.about.ads.microsoft.com/training/training-certification/) | Unlimited |
 
-## Database
-
-| Provider | Description | Link | Expiration |
-| --- | --- | --- | --- |
-| Exasol | Free Exasol training courses and certifications (€150 value each). | [Link](https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification) | 30-Jun-2020 |
-| Mongodb | 12 free MongoDB courses with proof of completion. | [Link](https://university.mongodb.com/courses/catalog) | Unlimited |
-| CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
-| CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
-| Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
-| Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
-| Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
-| SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
-
-
-## Others
+## Miscellaneous
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
