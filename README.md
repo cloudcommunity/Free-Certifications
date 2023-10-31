@@ -92,6 +92,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cilium | Isovalent | Advanced BGP Features | [Link](https://isovalent.com/labs/advanced-bgp-features/) | Unknown |
 | Cilium | Isovalent | Cilium LoadBalancer IPAM and BGP Service Advertisement | [Link](https://isovalent.com/labs/lb-ipam-bgp-service/) | Unknown |
 | Cilium | Isovalent | Cilium LoadBalancer IPAM and L2 Service Announcement | [Link](https://isovalent.com/labs/cilium-loadbalancer-ipam-and-l2-service-announcement/) | Unknown |
+| Cilium | Isovalent | Isovalent Enterprise for Cilium: Cilium Multi-Networking | [Link](https://isovalent.com/labs/isovalent-enterprise-for-cilium-cilium-multi-networking/) | Unknown |
 | Cilium | Isovalent | Isovalent Enterprise for Cilium: Zero Trust Visibility | [Link](https://isovalent.com/labs/cilium-enterprise-zero-trust-visibility/) | Unknown |
 | Cilium | Isovalent | Cilium IPv6 Networking and Observability | [Link](https://isovalent.com/labs/ipv6-networking-and-observability/) | Unknown |
 | Cilium | Isovalent | Cilium Gateway API | [Link](https://isovalent.com/labs/gateway-api/) | Unknown |
