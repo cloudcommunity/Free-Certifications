@@ -139,7 +139,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | GitOps | Akuity | Introduction to Continuous Delivery and GitOps using Argo CD | [Link](https://academy.akuity.io/courses/gitops-argocd-intro) | Unknown |
 | Network | Cisco U | Understanding Cisco Network Automation Essentials - DEVNAE - 16 continuing education credits free | [Link](https://u.cisco.com/path/3) | Unlimited |
 | Network | Cisco Networking Academy | Networking Essentials | [Link](https://www.netacad.com/courses/networking/networking-essentials) | Unlimited |
-Game Development with Unity | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
+| Game Development | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
 | Internet of Things | Cisco Networking Academy | Introduction to IoT | [Link](https://www.netacad.com/courses/iot/introduction-iot) | Unlimited |
 
 ## Security
