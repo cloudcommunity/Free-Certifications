@@ -141,6 +141,11 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Network | Cisco Networking Academy | Networking Essentials | [Link](https://www.netacad.com/courses/networking/networking-essentials) | Unlimited |
 Game Development with Unity | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
 | Internet of Things | Cisco Networking Academy | Introduction to IoT | [Link](https://www.netacad.com/courses/iot/introduction-iot) | Unlimited |
+| DevOps | Google Cloud Skills Boost | DevOps Essentials | [Link](https://www.cloudskillsboost.google/course_templates/717) | Unlimited
+| AI Fundamentals | Google Cloud Skills Boost | Introduction to Generative AI | [Link](https://www.cloudskillsboost.google/journeys/118/course_templates/536) | Unlimited
+| Machine Learning | Google Cloud Skills Boost | Intro to ML: Language Processing | [Link](https://www.cloudskillsboost.google/course_templates/740) | Unlimited
+| Machine Learning | Google Cloud Skills Boost | Integrate with Machine Learning APIs | [Link](https://www.cloudskillsboost.google/course_templates/630) | Unlimited
+| Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited
 
 ## Security
 
@@ -159,6 +164,7 @@ Game Development with Unity | Unity | Official tutorials provided by Unity, for 
 | AttackIQ | Foundations of Operationalizing MITRE ATT&CK v13 | [Link](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13) | Unlimited |
 | Cisco Networking Academy | Introduction to Cybersecurity | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 | Cisco Networking Academy | Cybersecurity Essentials | [Link](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) | Unlimited |
+| Google Cloud Skills Boost | Security & Identity Fundamentals | [Link](https://www.cloudskillsboost.google/course_templates/770) | Unlimited |
 
 ## Databases
 
@@ -185,6 +191,8 @@ Game Development with Unity | Unity | Official tutorials provided by Unity, for 
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
 | Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
+
+
 
 ## Marketing
 
