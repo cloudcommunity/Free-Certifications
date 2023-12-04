@@ -149,6 +149,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Machine Learning | Google Cloud Skills Boost | Integrate with Machine Learning APIs | [Link](https://www.cloudskillsboost.google/course_templates/630) | Unlimited
 | Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited
 
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
 ## Security
 
 | Provider | Description | Link | Expiration |
@@ -168,6 +170,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cisco Networking Academy | Cybersecurity Essentials | [Link](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) | Unlimited |
 | Google Cloud Skills Boost | Security & Identity Fundamentals | [Link](https://www.cloudskillsboost.google/course_templates/770) | Unlimited |
 
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
 ## Databases
 
 | Provider | Description | Link | Expiration |
@@ -180,6 +184,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
 | Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
 | SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 ## Project Management
 
@@ -194,7 +200,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
 | Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
 
-
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 ## Marketing
 
@@ -208,6 +214,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
 | Microsoft | Microsoft Advertising Certified Professional. | [Link](https://learninglab.about.ads.microsoft.com/training/training-certification/) | Unlimited |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 ## Miscellaneous
 
@@ -233,4 +241,5 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | EF SET | 50-minute test to receive your personalized English certificate to add to your LinkedIn profile or CV, aligned to CEFR levels. | [Link](https://www.efset.org/ef-set-50/) | Unlimited |
 | Microsoft | The Microsoft Licensing Specialist certifications demonstrate competence in a particular area of Microsoft product licensing. You will require an intermediate level of knowledge to achieve these certifications. | [Link](https://getlicensingready.com/Main.aspx) | Unlimited |
 | ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
+
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
