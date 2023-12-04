@@ -143,11 +143,12 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Network | Cisco Networking Academy | Networking Essentials | [Link](https://www.netacad.com/courses/networking/networking-essentials) | Unlimited |
 | Game Development | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
 | Internet of Things | Cisco Networking Academy | Introduction to IoT | [Link](https://www.netacad.com/courses/iot/introduction-iot) | Unlimited |
-| DevOps | Google Cloud Skills Boost | DevOps Essentials | [Link](https://www.cloudskillsboost.google/course_templates/717) | Unlimited
-| AI Fundamentals | Google Cloud Skills Boost | Introduction to Generative AI | [Link](https://www.cloudskillsboost.google/journeys/118/course_templates/536) | Unlimited
-| Machine Learning | Google Cloud Skills Boost | Intro to ML: Language Processing | [Link](https://www.cloudskillsboost.google/course_templates/740) | Unlimited
-| Machine Learning | Google Cloud Skills Boost | Integrate with Machine Learning APIs | [Link](https://www.cloudskillsboost.google/course_templates/630) | Unlimited
-| Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited
+| DevOps | Google Cloud Skills Boost | DevOps Essentials | [Link](https://www.cloudskillsboost.google/course_templates/717) | Unlimited |
+| AI Fundamentals | Google Cloud Skills Boost | Introduction to Generative AI | [Link](https://www.cloudskillsboost.google/journeys/118/course_templates/536) | Unlimited |
+| Machine Learning | Google Cloud Skills Boost | Intro to ML: Language Processing | [Link](https://www.cloudskillsboost.google/course_templates/740) | Unlimited |
+| Machine Learning | Google Cloud Skills Boost | Integrate with Machine Learning APIs | [Link](https://www.cloudskillsboost.google/course_templates/630) | Unlimited |
+| Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited |
+| AI | Elements of AI | Free online courses about the basics of AI | [Link](https://www.elementsofai.com/) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
