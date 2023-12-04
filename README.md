@@ -61,6 +61,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
 | AWS | AWS | AWS Cloud Quest: Cloud Practitioner | [Link](https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner) | Unknown |
 | AWS | AWS | AWS Solutions Architect - Knowledge Badge Readiness Path | [Link](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1044/solutions-architect-knowledge-badge-readiness-path) | Unknown |
+| API | Postman | Postman API Fundamentals Student Expert | [Link](https://academy.postman.com/path/postman-api-fundamentals-student-expert) | Unknown |
 | API | API Academy | Free API Designer and API Security Architect certifications. | [Link](https://apiacademy.co/api-certification/) | Unknown |
 | API | Gravitee.io | Event-Native API Management Fundamentals Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) | Unknown |
 | API | Gravitee.io | Event-Native API Management Professional Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-enap-certification) | Unknown |
