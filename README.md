@@ -61,6 +61,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
 | AWS | AWS | AWS Cloud Quest: Cloud Practitioner | [Link](https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner) | Unknown |
 | AWS | AWS | AWS Solutions Architect - Knowledge Badge Readiness Path | [Link](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1044/solutions-architect-knowledge-badge-readiness-path) | Unknown |
+| API | Postman | Postman API Fundamentals Student Expert | [Link](https://academy.postman.com/path/postman-api-fundamentals-student-expert) | Unknown |
 | API | API Academy | Free API Designer and API Security Architect certifications. | [Link](https://apiacademy.co/api-certification/) | Unknown |
 | API | Gravitee.io | Event-Native API Management Fundamentals Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) | Unknown |
 | API | Gravitee.io | Event-Native API Management Professional Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-enap-certification) | Unknown |
@@ -82,6 +83,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Selenium | LambdaTest | Selenium Advanced Certifications | [Link](https://www.lambdatest.com/certifications/) | Unknown |
 | DeepLearning AI | Deep Learning | Deep Learning Specialization. Master Deep Learning, and Break into AI | [Link](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&siteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=bt30QTxEyjA) | Unknown |
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
+| Kubernetes Fundamentals  | Datadog | Free Kubernetes Fundamentals Training with Credly Badge | [Link](https://learn.datadoghq.com/bundles/k8s-fundamentals) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
 | Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
 | Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
@@ -141,6 +143,14 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Network | Cisco Networking Academy | Networking Essentials | [Link](https://www.netacad.com/courses/networking/networking-essentials) | Unlimited |
 | Game Development | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
 | Internet of Things | Cisco Networking Academy | Introduction to IoT | [Link](https://www.netacad.com/courses/iot/introduction-iot) | Unlimited |
+| DevOps | Google Cloud Skills Boost | DevOps Essentials | [Link](https://www.cloudskillsboost.google/course_templates/717) | Unlimited |
+| AI Fundamentals | Google Cloud Skills Boost | Introduction to Generative AI | [Link](https://www.cloudskillsboost.google/journeys/118/course_templates/536) | Unlimited |
+| Machine Learning | Google Cloud Skills Boost | Intro to ML: Language Processing | [Link](https://www.cloudskillsboost.google/course_templates/740) | Unlimited |
+| Machine Learning | Google Cloud Skills Boost | Integrate with Machine Learning APIs | [Link](https://www.cloudskillsboost.google/course_templates/630) | Unlimited |
+| Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited |
+| AI | Elements of AI | Free online courses about the basics of AI | [Link](https://www.elementsofai.com/) | Unlimited |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 ## Security
 
@@ -159,6 +169,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | AttackIQ | Foundations of Operationalizing MITRE ATT&CK v13 | [Link](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13) | Unlimited |
 | Cisco Networking Academy | Introduction to Cybersecurity | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 | Cisco Networking Academy | Cybersecurity Essentials | [Link](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) | Unlimited |
+| Google Cloud Skills Boost | Security & Identity Fundamentals | [Link](https://www.cloudskillsboost.google/course_templates/770) | Unlimited |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 ## Databases
 
@@ -173,6 +186,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
 | SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
 
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
 ## Project Management
 
 | Provider | Description | Link | Expiration |
@@ -186,6 +201,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
 | Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
 
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
 ## Marketing
 
 | Provider | Description | Link | Expiration |
@@ -198,6 +215,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
 | Microsoft | Microsoft Advertising Certified Professional. | [Link](https://learninglab.about.ads.microsoft.com/training/training-certification/) | Unlimited |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 ## Miscellaneous
 
@@ -223,3 +242,5 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | EF SET | 50-minute test to receive your personalized English certificate to add to your LinkedIn profile or CV, aligned to CEFR levels. | [Link](https://www.efset.org/ef-set-50/) | Unlimited |
 | Microsoft | The Microsoft Licensing Specialist certifications demonstrate competence in a particular area of Microsoft product licensing. You will require an intermediate level of knowledge to achieve these certifications. | [Link](https://getlicensingready.com/Main.aspx) | Unlimited |
 | ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
