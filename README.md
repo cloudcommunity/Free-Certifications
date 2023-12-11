@@ -32,7 +32,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
 | Cloud Networking | Aviatrix  | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
 | Microsoft | Build: Azure Developer Challenge | Learn how to design, build, test, and maintain cloud applications and services on Microsoft Azure.| [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81 ) |  21-Jun-2022 |
-| Cloud Networking | Aviatrix  | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | Limited Time |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
