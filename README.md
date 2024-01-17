@@ -139,7 +139,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Site Reliability Engineering | RedHat |  Free Course On Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview | [Link](https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview) | Unknown |
 | GitOps | Akuity | Introduction to Continuous Delivery and GitOps using Argo CD | [Link](https://academy.akuity.io/courses/gitops-argocd-intro) | Unknown |
 | Network | Cisco U | Understanding Cisco Network Automation Essentials - DEVNAE - 16 continuing education credits free | [Link](https://u.cisco.com/path/3) | Unlimited |
-| Network | Cisco Networking Academy | Networking Essentials | [Link](https://www.netacad.com/courses/networking/networking-essentials) | Unlimited |
+| Network | Co Networking Academy | Networking Essentials | [Link](https://www.netacad.com/courses/networking/networking-essentials) | Unlimited |
 | Game Development | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
 | Internet of Things | Cisco Networking Academy | Introduction to IoT | [Link](https://www.netacad.com/courses/iot/introduction-iot) | Unlimited |
 | DevOps | Google Cloud Skills Boost | DevOps Essentials | [Link](https://www.cloudskillsboost.google/course_templates/717) | Unlimited |
@@ -157,7 +157,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
 | Cisco U | Understanding Cisco Cybersecurity Operations Fundamentals - CBROPS - 30 continuing education credits free | [Link](https://u.cisco.com/path/32) | 16-Nov-2023 |
-| ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2023 |
+| ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312024 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2024 |
 | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
 | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
