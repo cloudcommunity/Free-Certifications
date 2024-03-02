@@ -185,6 +185,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
 | Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
 | SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
+| Neo4j Graph Academy | Free Exam Certificates and Proof of Completion Course Certificates | [Link](https://graphacademy.neo4j.com) | Unknown
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
