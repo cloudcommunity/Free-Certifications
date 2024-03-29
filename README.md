@@ -149,6 +149,16 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited |
 | AI | Elements of AI | Free online courses about the basics of AI | [Link](https://www.elementsofai.com/) | Unlimited |
 | AI | LinkedIn | Career Essentials in Generative AI by Microsoft and LinkedIn | [Link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) | Unknown |
+| LLMOps | DeepLearning.AI | Free short courses on LLMOps | [Link](https://www.deeplearning.ai/short-courses/llmops/) | Unknown |
+| Automated Testing for LLMOps | DeepLearning.AI | Free short courses on Automated Testing for LLMOps | [Link](https://www.deeplearning.ai/short-courses/automated-testing-llmops/) | Unknown |
+| Building Generative AI Applications with Gradio | DeepLearning.AI | Free short courses on Building Generative AI Applications with Gradio | [Link](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) | Unknown |
+| Open Source Models with Hugging Face | DeepLearning.AI | Free short courses on Open Source Models with Hugging Face | [Link](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/) | Unknown |
+| Prompt Engineering with Llama 2 | DeepLearning.AI | Free short courses on Prompt Engineering with Llama 2 | [Link](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/) | Unknown |
+| Building Applications with Vector Databases | DeepLearning.AI | Free short courses on Building Applications with Vector Databases | [Link](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/) | Unknown |
+| Build LLM Apps with LangChain.js | DeepLearning.AI | Free short courses on Build LLM Apps with LangChain.js | [Link](https://www.deeplearning.ai/short-courses/build-llm-apps-with-langchain-js/) | Unknown |
+| Quality and Safety for LLM Applications | DeepLearning.AI | Free short courses on Quality and Safety for LLM Applications | [Link](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/) | Unknown |
+| Understanding and Applying Text Embeddings | DeepLearning.AI | Free short courses on Understanding and Applying Text Embeddings | [Link](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/) | Unknown |
+| Pair Programming with a Large Language Model | DeepLearning.AI | Free short courses on Pair Programming with a Large Language Model | [Link](https://www.deeplearning.ai/short-courses/pair-programming-llm/) | Unknown |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
