@@ -11,17 +11,23 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 ## Table of Contents
 
-- [General](#general)
-- [Security](#security)
-- [Databases](#databases)
-- [Project Management](#project-management)
-- [Marketing](#marketing)
-- [Miscellaneous](#miscellaneous)
+- [Free Certifications](#free-certifications)
+  - [Table of Contents](#table-of-contents)
+  - [General](#general)
+  - [Security](#security)
+  - [Databases](#databases)
+  - [Project Management](#project-management)
+  - [Marketing](#marketing)
+  - [Miscellaneous](#miscellaneous)
 
 ## General
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
+| Azure AI Fundamentals | Microsoft | Complete the Azure AI Fundamentals challenge and become eligible to earn a free Microsoft Certification exam | [Link](https://learn.microsoft.com/en-us/training/challenges?id=3ef5d197-cdef-49bc-a8bc-954bcd9e88cc&WT.mc_id=cloudskillschallenge_3ef5d197-cdef-49bc-a8bc-954bcd9e88cc) | April 19, 2024 |
+| Azure Machine Learning | Microsoft | Complete the Azure Machine Learning challenge and become eligible to earn a free Microsoft Certification exam | [Link](https://learn.microsoft.com/en-us/training/challenges?id=764de7ca-8b6d-4b3a-a491-1942af389d8c&WT.mc_id=cloudskillschallenge_764de7ca-8b6d-4b3a-a491-1942af389d8c) | April 19, 2024 |
+| Azure OpenAI | Microsoft | Complete the Azure OpenAI challenge and become eligible to earn a free Microsoft Certification exam | [Link](https://learn.microsoft.com/en-us/training/challenges?id=da09d3ca-a2bb-47dc-ba42-bea77b386a3d&WT.mc_id=cloudskillschallenge_da09d3ca-a2bb-47dc-ba42-bea77b386a3d) | April 19, 2024 |
+| Microsoft Fabric | Microsoft | Complete the Microsoft Fabric challenge and become eligible to earn a free Microsoft Certification exam | [Link](https://learn.microsoft.com/en-us/training/challenges?id=b696c18d-7201-4aff-9c7d-d33014d93b25&WT.mc_id=cloudskillschallenge_b696c18d-7201-4aff-9c7d-d33014d93b25) | April 19, 2024 |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
 | OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
 | Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited |
