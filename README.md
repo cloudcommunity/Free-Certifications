@@ -42,12 +42,12 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Programming | JetBrains | Free courses by JetBrains Academy for learning Java, Kotlin & Python. | [Link](https://www.jetbrains.com/academy/) | Unknown |
 | Cloud Monitoring | Elastic | Free access to 11 Elastic Stack courses ($200 value each). | [Link](https://www.elastic.co/training/free) | Unknown |
 | Diverse | Udacity | One free month of access to nanodegree programs by Udacity ($400 value). Credit card / PayPal required. Don’t forget to cancel in time. | [Link](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) | Unknown |
-| Alibaba Cloud | Coursera | “Architecting on Alibaba Cloud Specialization” at Coursera. | [Link](https://www.coursera.org/specializations/alibabacloud) | Unknown |
+| Alibaba Cloud | Coursera | “Architecting on Alibaba Cloud Specialization” at Coursera. No certification. | [Link](https://www.coursera.org/specializations/alibabacloud) | Unknown |
 | DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | Unknown |
 | DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown |
 | Data Analytics | Sumo Logic | 6 free training courses and certifications by Sumo Logic. | [Link](https://www.sumologic.com/learn/certifications/) | Unlimited |
 | Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | Unlimited |
-| Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
+| Diverse | Udemy | ~670 free courses at Udemy. No certification. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
 | cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
 | Plesk | Plesk University | Free Plesk Obsidian Professional Certification | [Link](https://university.plesk.com/catalog/info/id:343) | Unlimited |
 | SolusIO | Plesk University | Free SolusIO Professional Certification | [Link](https://university.plesk.com/catalog/info/id:369) | Unlimited |
