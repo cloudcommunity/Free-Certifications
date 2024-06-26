@@ -16,6 +16,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 - [Databases](#databases)
 - [Project Management](#project-management)
 - [Marketing](#marketing)
+- [Journalism](#journalism)
 - [Miscellaneous](#miscellaneous)
 
 ## General
@@ -215,6 +216,15 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
 | Microsoft | Microsoft Advertising Certified Professional. | [Link](https://learninglab.about.ads.microsoft.com/training/training-certification/) | Unlimited |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
+## Journalism
+
+| Provider | Description | Link | Expiration |
+| --- | --- | --- | --- |
+| RT | TV & Online Journalism | [Link](https://academy.rt.com) | Unlimited |
+| Reuters | Introduction to Digital Journalism | [Link]([https://about.ads.microsoft.com/en-us/resources/training/get-certified](https://reutersdigitaljournalism.com/?l=en)) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
