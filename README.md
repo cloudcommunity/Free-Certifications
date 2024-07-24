@@ -243,5 +243,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | EF SET | 50-minute test to receive your personalized English certificate to add to your LinkedIn profile or CV, aligned to CEFR levels. | [Link](https://www.efset.org/ef-set-50/) | Unlimited |
 | Microsoft | The Microsoft Licensing Specialist certifications demonstrate competence in a particular area of Microsoft product licensing. You will require an intermediate level of knowledge to achieve these certifications. | [Link](https://getlicensingready.com/Main.aspx) | Unlimited |
 | ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
+| ATLASSIAN University | Confluence Fundamentals Badge | [Link](https://university.atlassian.com/student/path/861302/activity/2832257) | Unlimited |
+| ATLASSIAN University | Beginner's Guide to Agile in Jira Badge| [Link](https://university.atlassian.com/student/path/1113130-apply-agile-practices-to-manage-your-work) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
