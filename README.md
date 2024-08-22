@@ -57,6 +57,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
 | SysTrack | Lakeside Software | Free SysTrack certification and badge upon completion of self-paced courses through their online learning platform. They offer three courses: SysTrack Technician, SysTrack Engineer, and SysTrack Dashboard Designer. | [Link](https://info.lakesidesoftware.com/acton/fs/blocks/showLandingPage/a/31052/p/p-0081/t/page/fm/0) | Unknown |
 | Eggplant | Eggplant | Free Eggplant courses and certifications. | [Link](https://www.eggplantsoftware.com/training-and-certifications) | Unknown |
+| AWS | AWS | 50% off for all the AWS Certified Associate Certifications | [Link](https://pages.awscloud.com/GLOBAL-ln-GC-Traincert-Associate-Certification-Challenge-Registration-2024.html) | December 12, 2024 |
 | AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
 | AWS | AWS | AWS Cloud Quest: Cloud Practitioner | [Link](https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner) | Unknown |
 | AWS | AWS | AWS Solutions Architect - Knowledge Badge Readiness Path | [Link](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1044/solutions-architect-knowledge-badge-readiness-path) | Unknown |
