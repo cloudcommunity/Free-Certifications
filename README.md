@@ -84,7 +84,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | Kubernetes Fundamentals  | Datadog | Free Kubernetes Fundamentals Training with Credly Badge | [Link](https://learn.datadoghq.com/bundles/k8s-fundamentals) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
-| Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
 | Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
 | Cilium | Isovalent | Cilium Ingress Controller | [Link](https://isovalent.com/labs/cilium-ingress-controller/) | Unknown |
 | Cilium | Isovalent | Cilium Cluster Mesh | [Link](https://isovalent.com/labs/cilium-cluster-mesh/) | Unknown |
