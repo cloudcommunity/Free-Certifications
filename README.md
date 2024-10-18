@@ -170,6 +170,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cisco Networking Academy | Introduction to Cybersecurity | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 | Cisco Networking Academy | Cybersecurity Essentials | [Link](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) | Unlimited |
 | Google Cloud Skills Boost | Security & Identity Fundamentals | [Link](https://www.cloudskillsboost.google/course_templates/770) | Unlimited |
+| Open Source Security Foundation | Developing Secure Software (LFD121) | [Link](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
