@@ -156,6 +156,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
+| Cisco Certificate in Ethical Hacking | Ethical Hacker | [Link](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US) | Unlimited |
 | Cisco U | Understanding Cisco Cybersecurity Operations Fundamentals - CBROPS - 30 continuing education credits free | [Link](https://u.cisco.com/path/32) | 16-Nov-2023 |
 | ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312024 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2024 |
 | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
