@@ -187,8 +187,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
 | Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
 | SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
-| Neo4j Graph Academy | Free Exam Certificates and Proof of Completion Course Certificates | [Link](https://graphacademy.neo4j.com) | Unknown
+| Neo4j Graph Academy | Free Exam Certificates and Proof of Completion Course Certificates | [Link](https://graphacademy.neo4j.com) | Unknown |
 | ArangoDB | ArangoDB Certified Professional | [Link](https://www.arangodb.com/learn/certification/) | Unlimited |
+| CrateDB | CrateDB Academy offers free online courses and certification for our open source multi-model database. | [Link](https://learn.cratedb.com) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
@@ -203,7 +204,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited |
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
-| Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
+| Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
