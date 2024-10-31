@@ -7,7 +7,7 @@ A curated list of free courses &amp; certifications. Don't forget to star ⭐ th
 
 The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
 
-🎉 Brought to you by the [Cloud Study Network](https://www.meetup.com/Cloud-Study-Network/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
+🎉 Brought to you by the [Cloud Study Network](https://cloudstudy.net/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
 
 ## Table of Contents
 
