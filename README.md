@@ -188,6 +188,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
 | SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
 | Neo4j Graph Academy | Free Exam Certificates and Proof of Completion Course Certificates | [Link](https://graphacademy.neo4j.com) | Unknown
+| ArangoDB | ArangoDB Certified Professional | [Link](https://www.arangodb.com/learn/certification/) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
