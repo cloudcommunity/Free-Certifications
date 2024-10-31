@@ -84,7 +84,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | Kubernetes Fundamentals  | Datadog | Free Kubernetes Fundamentals Training with Credly Badge | [Link](https://learn.datadoghq.com/bundles/k8s-fundamentals) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
-| Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
 | Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
 | Cilium | Isovalent | Cilium Ingress Controller | [Link](https://isovalent.com/labs/cilium-ingress-controller/) | Unknown |
 | Cilium | Isovalent | Cilium Cluster Mesh | [Link](https://isovalent.com/labs/cilium-cluster-mesh/) | Unknown |
@@ -149,6 +148,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited |
 | AI | Elements of AI | Free online courses about the basics of AI | [Link](https://www.elementsofai.com/) | Unlimited |
 | AI | LinkedIn | Career Essentials in Generative AI by Microsoft and LinkedIn | [Link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) | Unknown |
+| AI | HuggingFace | Free online course and certification for Deep Reinforcement Learning | [Link](https://huggingface.co/learn/deep-rl-course) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
@@ -156,8 +156,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
+| Cisco Certificate in Ethical Hacking | Ethical Hacker | [Link](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US) | Unlimited |
 | Cisco U | Understanding Cisco Cybersecurity Operations Fundamentals - CBROPS - 30 continuing education credits free | [Link](https://u.cisco.com/path/32) | 16-Nov-2023 |
-| ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2023 |
+| ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312024 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2024 |
 | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
 | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
@@ -170,6 +171,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cisco Networking Academy | Introduction to Cybersecurity | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 | Cisco Networking Academy | Cybersecurity Essentials | [Link](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) | Unlimited |
 | Google Cloud Skills Boost | Security & Identity Fundamentals | [Link](https://www.cloudskillsboost.google/course_templates/770) | Unlimited |
+| Open Source Security Foundation | Developing Secure Software (LFD121) | [Link](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/) | Unlimited |
 | IBM Training | IBM QRadar SIEM Foundation | [Link](https://www.ibm.com/training/learning-path/ibm-qradar-siem-foundation-694) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
@@ -186,6 +188,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
 | Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
 | SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
+| Neo4j Graph Academy | Free Exam Certificates and Proof of Completion Course Certificates | [Link](https://graphacademy.neo4j.com) | Unknown |
+| ArangoDB | ArangoDB Certified Professional | [Link](https://www.arangodb.com/learn/certification/) | Unlimited |
+| CrateDB | CrateDB Academy offers free online courses and certification for our open source multi-model database. | [Link](https://learn.cratedb.com) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
@@ -200,7 +205,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited |
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
-| Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
+| Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
@@ -215,6 +220,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Hootsuite | **[Students only]** Free Hootsuite Platform Certification (worth $99) and Social Marketing Certification (worth $199) through Hootsuite's Student Program. | [Link](https://hootsuite.com/pages/landing/student-program) | Unlimited |
 | HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
+| Meta | Meta Certified Digital Marketing Associate | [Link](http://www.facebook.com/business/learn/certification/exams/100-101-exam) | Unlimited |
 | Microsoft | Microsoft Advertising Certified Professional. | [Link](https://learninglab.about.ads.microsoft.com/training/training-certification/) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
