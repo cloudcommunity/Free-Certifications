@@ -203,6 +203,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
 | Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
+| upmark | Free digital marketing course | [Link](https://upmark.in/)) | Unlimited
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
