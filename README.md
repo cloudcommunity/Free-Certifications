@@ -23,7 +23,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
-| GitHub | **[Students only]** Free GitHub Foundations Certification ($99 value) included with the GitHub Student Pack | [Link](https://github.com/orgs/community/discussions/138834) | Unknown |
+| GitHub Certification | GitHub | **[Students only]** Free GitHub Foundations Certification ($99 value) included with the GitHub Student Pack | [Link](https://github.com/orgs/community/discussions/138834) | Unknown |
 | OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
 | Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited |
 | Data Visualization | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/data-visualization/) | Unlimited |
