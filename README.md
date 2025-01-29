@@ -5,6 +5,8 @@
 
 A curated list of **free courses with certifications**. Don't forget to star ⭐ this repository.
 
+We are excited to announce that this comprehensive collection is now available as a user-friendly website at 🌐 **[FREE-CERTIFICATIONS.COM](https://free-certifications.com/)** 📚!
+
 The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
 
 🎉 Brought to you by the [Cloud Study Network](https://cloudstudy.net/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
