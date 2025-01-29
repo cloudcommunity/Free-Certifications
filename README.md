@@ -3,7 +3,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/cloudcommunity/Free-Certifications?style=social)](https://github.com/cloudcommunity/Free-Certifications)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CloudStudyNet?style=social)](https://twitter.com/CloudStudyNet)
 
-A curated list of free courses &amp; certifications. Don't forget to star ⭐ this repository.
+A curated list of **free courses with certifications**. Don't forget to star ⭐ this repository.
 
 The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
 
