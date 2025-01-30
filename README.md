@@ -15,8 +15,6 @@ We are excited to announce that this comprehensive collection is now available a
 
 We are launching a **Free Certifications Newsletter** to bring the latest free certification opportunities straight to your inbox! Our newsletter will start distribution sometime between February and March 2025 and will be sent either weekly or biweekly. **[Subscribe now](https://freecertifications.substack.com/)** and never miss out on new learning opportunities!
 
-<iframe src="https://freecertifications.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
 ©️ **Attribution** ©️
 
 🎉 Brought to you by the [Cloud Study Network](https://cloudstudy.net/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
