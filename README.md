@@ -26,6 +26,7 @@ We are launching a **Free Certifications Newsletter** to bring the latest free c
 - [Databases](#databases)
 - [Project Management](#project-management)
 - [Marketing](#marketing)
+- [Journalism](#journalism)
 - [Miscellaneous](#miscellaneous)
 
 ## General
@@ -232,6 +233,15 @@ We are launching a **Free Certifications Newsletter** to bring the latest free c
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
 | Meta | Meta Certified Digital Marketing Associate | [Link](http://www.facebook.com/business/learn/certification/exams/100-101-exam) | Unlimited |
 | Microsoft | Microsoft Advertising Certified Professional. | [Link](https://learninglab.about.ads.microsoft.com/training/training-certification/) | Unlimited |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
+## Journalism
+
+| Provider | Description | Link | Expiration |
+| --- | --- | --- | --- |
+| RT | TV & Online Journalism | [Link](https://academy.rt.com) | Unlimited |
+| Reuters | Introduction to Digital Journalism | [Link]([https://about.ads.microsoft.com/en-us/resources/training/get-certified](https://reutersdigitaljournalism.com/?l=en)) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
