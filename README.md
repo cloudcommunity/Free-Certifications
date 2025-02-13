@@ -44,6 +44,7 @@ Check them out and take advantage of amazing free resources!
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
+| Git | GitKraken | Free course and certification exam | [Link](https://learn.gitkraken.com/courses/git-foundations) | Unlimited |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
 | OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
 | Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited |
