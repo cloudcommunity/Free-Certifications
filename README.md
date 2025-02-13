@@ -11,7 +11,7 @@ A curated list of **free courses with certifications**. Don't forget to star ⭐
 
 We are excited to announce that this comprehensive collection is now available as a user-friendly website at 🌐 **[FREE-CERTIFICATIONS.COM](https://free-certifications.com/)** 📚!
 
-📢 **Stay Updated with Our Newsletter!** 📢
+📬 **Stay Updated with Our Newsletter!** 📬
 
 We are launching a **Free Certifications Newsletter** to bring the latest free certification opportunities straight to your inbox! Our newsletter will start distribution sometime between February and March 2025 and will be sent either weekly or biweekly. **[Subscribe now](https://freecertifications.substack.com/)** and never miss out on new learning opportunities!
 
