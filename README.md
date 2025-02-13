@@ -15,9 +15,21 @@ We are excited to announce that this comprehensive collection is now available a
 
 We are launching a **Free Certifications Newsletter** to bring the latest free certification opportunities straight to your inbox! Our newsletter will start distribution sometime between February and March 2025 and will be sent either weekly or biweekly. **[Subscribe now](https://freecertifications.substack.com/)** and never miss out on new learning opportunities!
 
-©️ **Attribution** ©️
+📌 **Love Freebies? Check These Out!** 📌
 
-🎉 Brought to you by the [Cloud Study Network](https://cloudstudy.net/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
+If you love freebies, be sure to explore our other curated lists of free resources for various communities:
+
+- **Nonprofits**: [Free-for-Nonprofits](https://github.com/cloudcommunity/Free-for-Nonprofits)
+- **Open Source Projects**: [Free-for-Open-Source](https://github.com/cloudcommunity/Free-for-Open-Source)
+- **Startups**: [Free-for-Startups](https://github.com/cloudcommunity/Free-for-Startups)
+- **Education (Students & Schools)**: [Free-for-Education](https://github.com/cloudcommunity/Free-for-Education)
+- **Communities**: [Free-for-Communities](https://github.com/cloudcommunity/Free-for-Communities)
+
+Check them out and take advantage of amazing free resources!
+
+🔹 **About Us** 🔹
+
+🎉 Brought to you by the [Cloud Study Network](https://cloudstudy.net/) - a global tech community that shares knowledge, goodies, and good vibes! 🎉
 
 ## Table of Contents
 
