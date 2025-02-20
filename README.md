@@ -273,5 +273,6 @@ Check them out and take advantage of amazing free resources!
 | ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
 | ATLASSIAN University | Confluence Fundamentals Badge | [Link](https://university.atlassian.com/student/path/861302/activity/2832257) | Unlimited |
 | ATLASSIAN University | Beginner's Guide to Agile in Jira Badge| [Link](https://university.atlassian.com/student/path/1113130-apply-agile-practices-to-manage-your-work) | Unlimited |
+| UdemyXpert | Get 100% free Udemy coupons and discounts. Find the latest and most popular Udemy coupon codes for free. | [Link](https://udemyxpert.com) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
